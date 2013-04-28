@@ -93,31 +93,65 @@ def promptAnswer(question, count, scores):
 
 def getRandomQuestions(questions, number):
   randomQuestions = []
-  for i in range(number):
+  for i in range(int(number)):
     randomQuestion = questions[random.randint(0, len(questions)-1)]
     randomQuestions.append(randomQuestion)
 
   return randomQuestions
+
+def runMenu(questions):
+  print("Please select a game mode: ")
+  print("1. Normal Mode")
+  print("2. Random Mode")
+  print("\"exit\" to exit")
+  mode = raw_input("> ")
+  mode = mode.strip()
+  print mode
+  if mode == "1":
+    #Normal mode
+    number = raw_input("How many questions would you like? 1-256> ")
+    number = number.strip()
+    seq = []
+    for i in range(int(number)):
+      seq.append(questions[i])
+    
+    return seq
+
+  elif mode == "2":
+    #Random mode
+    number = raw_input("How many questions would you like? 1-256> ")
+    number = number.strip()
+    rand = getRandomQuestions(questions, number)
+    return rand
+  elif mode == "exit":
+    return None
+  else:
+    print "Not a valid choice, sorry."
+    runMenu(questions)
 
 def main():
   questions, answers = readQuestionFile("econ-questions.txt")
   setAnswers(questions, answers)
   #for q in questions:
   #  promptQuestion(q)
-  numQuestions = 5
-  rand = getRandomQuestions(questions, numQuestions)
-  score = 0
-  scores = []
-  for r in rand:
-    r.printQuestion()
-    promptAnswer(r, 0, scores)
+  print("Hello, welcome to Econ2 Multiple Choice Quiz Game")
+  while 1:
+    gameQuestions = runMenu(questions)
+    score = 0
+    scores = []
+    if (gameQuestions):
+      for q in gameQuestions:
+        q.printQuestion()
+        promptAnswer(q, 0, scores)
     
-  for i in range(len(scores)):
-    score = score + scores[i]
-  maxScore = numQuestions*15
-  total = float(score*100)/float(maxScore)
-  
-  print "Score: " + str(total) + "%"
+      for i in range(len(scores)):
+        score = score + scores[i]
+
+      print str(len(gameQuestions))
+      maxScore = len(gameQuestions)*15
+      total = float(score*100)/float(maxScore)
+      print "Score: " + str(total) + "%"
+    else: return 0 
 
 if __name__ == "__main__":
   main()
