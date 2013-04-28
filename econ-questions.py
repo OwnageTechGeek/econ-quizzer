@@ -115,6 +115,9 @@ class Quizzer(object):
       number = raw_input("How many questions would you like? 1-256> ").strip()
     if number == "0":
       self.runMenu()
+    elif int(number) > 256:
+      print "We don't have %s questions, but here's 256." % number
+      number = "256"
     if mode == "1":
       #Normal mode
       return self.questions[0:int(number)]
