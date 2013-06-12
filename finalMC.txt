@@ -1,0 +1,979 @@
+002. In the classical model, it is thought that the long-run: 
+A) and short-run aggregate supply curves are both upward sloping. 
+B) aggregate supply curve is vertical and the short-run aggregate supply curve is upward sloping. 
+C) and short-run aggregate supply curves are both vertical. 
+D) aggregate supply curve is upward sloping and the short-run aggregate supply curve is vertical. 
+003. Which of the following is the BEST explanation for an upward-sloping short-run aggregate supply curve? 
+A) Prices are perfectly flexible. 
+B) Wages are perfectly flexible. 
+C) Wages and prices of some goods are sticky in the short run. 
+D) Wages and prices of some goods are flexible in the short run but sticky in the long run. 
+004. In the short run in periods of low inflation, an increase in aggregate demand from a position of full employment leads to: 
+A) higher prices and higher unemployment. 
+B) higher prices and higher output. 
+C) lower prices and higher output. 
+D) lower prices and higher unemployment. 
+008. During periods of low inflation, the short-run aggregate supply curve is: 
+A) vertical. 
+B) horizontal. 
+C) upward sloping. 
+D) downward sloping. 
+009. In the long run, any given percentage increase in the money supply: 
+A) decreases real GDP. 
+B) leads to an equal percentage increase in the overall price level. 
+C) increases real GDP. 
+D) leads to an equal percentage decrease in the unemployment rate. 
+010. In economies with persistently high inflation, an increase in the money supply: 
+A) will translate into a proportional increase in the aggregate price level much faster than usual. 
+B) will translate into a proportional increase in the aggregate price level only in the long run. 
+C) will not affect either the aggregate price level or the aggregate output. 
+D) will translate into a proportional increase in the aggregate output much faster than usual. 
+016. According to the classical model of the price level, an increase in the money supply will create: 
+A) inflation with no long-run increase in real GDP.
+B) inflation and a long-run increase in real GDP. 
+C) no inflation and a long-run increase in real GDP. 
+D) deflation with no long-run increase in real GDP.
+017. The inflation tax is: 
+A) the higher tax paid by individuals whose incomes are indexed to inflation. 
+B) the taxes paid during periods of inflation. 
+C) the reduction in the value of money that is held by the public caused by inflation. 
+D) the higher prices consumers pay due to inflation. 
+018. Fiat money is: 
+A) money backed by gold. 
+B) money that only the government will accept to pay taxes. 
+C) paper money with no intrinsic value. 
+D) used only in the United States as a medium of exchange. 
+019. If the money supply is $3 billion and inflation is 6%, the inflation tax is: 
+A) $3.18 billion. 
+B) $50 billion. 
+C) $180 million. 
+D) $1.8 billion. 
+020. If the public holds $300 billion in monetary purchasing power and the inflation rate is 5%, then the inflation tax that year is: 
+A) $5 billion. 
+B) $15 billion. 
+C) $60 billion. 
+D) $1500 billion. 
+021. If a high inflation rate leads people to ______ their money holdings, this may lead to a further increase in the money supply and ______ inflation. 
+A) reduce; lower 
+B) increase; lower 
+C) reduce; higher 
+D) increase; higher 
+022. From 2000 to 2008 Zimbabwe's prices: 
+A) decreased by 50%. 
+B) increased by 50%. 
+C) increased by 100%. 
+D) increased by 80 trillion percent. 
+023. Zimbabwe's economic instability was caused primarily by: 
+A) its joining the Coalition of the Willing in the Iraq war. 
+B) its attempts to join the European Union. 
+C) the government's seizure of the country's farms, which disrupted production. 
+D) its high tariffs on imported goods. 
+024. When the output gap is negative, the actual unemployment rate is: 
+A) above the natural rate. 
+B) below the natural rate. 
+C) equal to the natural rate. 
+D) The actual and natural unemployment rates are not related to the output gap. 
+028. The relationship between the output gap and the unemployment rate can be summarized thus: 
+A) When the output gap is negative, the unemployment rate is below the natural rate. 
+B) When the output gap is zero, the unemployment rate is also zero. 
+C) When there is an inflationary gap, the unemployment rate is above the natural rate. 
+D) When the output gap is positive, the unemployment rate is below the natural rate. 
+029. Suppose actual aggregate output is equal to the potential output; the actual unemployment rate is: 
+A) equal to the natural rate of unemployment. 
+B) higher than the natural rate of unemployment. 
+C) zero. 
+D) equal to the cyclical rate of unemployment. 
+030. If an economy has just had a serious recession but real GDP is expanding once again, we can conclude the unemployment rate will: 
+A) automatically fall. 
+B) automatically rise. 
+C) actually rise, if people who were previously discouraged enter the work force but do not find jobs right away. 
+D) actually fall, if people who were previously discouraged enter the work force but do not find jobs right away. 
+031. If actual output growth is 5% when potential output growth is 5%, then the unemployment rate will: 
+A) not change. 
+B) rise. 
+C) fall. 
+D) be zero. 
+032. The idea that a 1% increase in the output gap will decrease the unemployment rate by 0.5% is known as: 
+A) Okun's law. 
+B) Phillip's law. 
+C) Greenspan's law. 
+D) Keynes's law. 
+033. The natural rate of unemployment is 4%, and the economy is producing 95% of its potential output. Okun's law predicts an unemployment rate of: 
+A) 4%. 
+B) 5%. 
+C) 6.5%. 
+D) 9%. 
+034. According to recent estimates of Okun's law, if the unemployment rate fell by a full percentage point, it would most probably be attributable to a: 
+A) 3% increase in real GDP. 
+B) 2% increase in real GDP. 
+C) 1% increase in real GDP. 
+D) 3% decrease in real GDP. 
+035. Assume that the economy is contracting and unemployment is rising. Which of the following would be a logical explanation for a sudden fall in the unemployment rate even while the economy continues to contract? 
+A) a reduction in the number of discouraged workers
+B) an increase in the number of discouraged workers
+C) an increase in the level of employment 
+D) a decrease in the level of employment 
+036. Okun's law suggests that: 
+A) a 1% increase in a positive output gap increases the unemployment rate by 0.5%. 
+B) a 1% increase in a positive output gap decreases the unemployment rate by 0.5%. 
+C) a 0.5% increase in a positive output gap increases the unemployment rate by 1%. 
+D) a 0.5% increase in a positive output gap decreases the unemployment rate by 1%. 
+037. If the natural rate of unemployment is 5% and the actual rate of unemployment is 4%: 
+A) disinflation is likely to occur. 
+B) there will be no effect on prices. 
+C) inflation will increase. 
+D) the short-run Phillips curve will shift down. 
+038. A supply shock caused by an increase in the price of gasoline causes: 
+A) a decrease in output and prices. 
+B) a decrease in output and an increase in prices. 
+C) an increase in output and prices. 
+D) an increase in output and a decrease in prices. 
+039. The short-run Phillips curve shows: 
+A) a direct relationship between unemployment and inflation. 
+B) an inverse relationship between unemployment and inflation. 
+C) consequences of the misperceptions theory. 
+D) the optimal level of employment. 
+040. A supply shock: 
+A) moves our economy along the short-run aggregate supply curve. 
+B) moves us along the short-run Phillips curve. 
+C) shifts the short-run Phillips curve. 
+D) shifts the short-run aggregate supply curve but not the short-run Phillips curve. 
+041. Along a Phillips curve: 
+A) consumption depends on prices. 
+B) the inflation rate varies inversely with the unemployment rate. 
+C) the inflation rate varies directly with the unemployment rate. 
+D) prices and tax rates are directly related. 
+042. Suppose that the unemployment rate rises at the same time that the inflation rate declines. This situation would be consistent with a movement along the: 
+A) vertical Phillips curve. 
+B) horizontal Phillips curve. 
+C) positively sloped Phillips curve. 
+D) negatively sloped Phillips curve. 
+045. An increase in the expected rate of inflation: 
+A) shifts the short-run Phillips curve down. 
+B) shifts the short-run Phillips curve up. 
+C) moves the economy along the short-run Phillips curve to higher rates of inflation. 
+D) moves the economy along the short-run Phillips curve to higher rates on unemployment. 
+046. Expectations of a higher inflation rate shift the short-run aggregate supply curve to the _________, changing the trade-off between inflation and unemployment. As a result, the short-run Phillips curve shifts _________. 
+A) left; down 
+B) right; up 
+C) left; up 
+D) right; down 
+047. During the 1950s and 1960s, the short-run Phillips curve for the U.S. economy showed a(n): 
+A) positive relationship between unemployment and inflation. 
+B) inverse relationship between unemployment and inflation. 
+C) positive relationship between interest rates and inflation. 
+D) inverse relationship between interest rates and inflation. 
+048. Stagflation is a combination of: 
+A) restrictive trade policies and inflation. 
+B) budget deficits and trade deficits. 
+C) unemployment and higher taxes. 
+D) unemployment and inflation. 
+049. An increase in expected inflation will affect the short-run Phillips curve: 
+A) by shifting it downward; the actual rate of inflation at any given unemployment rate will fall by the same amount. 
+B) by shifting it upward, as a result the actual rate of inflation at any given unemployment rate will also be higher when the expected inflation rate is higher. 
+C) by moving along the same curve, where it equals the actual rate of inflation. 
+D) only if the economy is at the nonaccelerating inflation rate of unemployment. 
+050. If the natural rate of unemployment _________, the NAIRU _________, and the long-run Phillips curve shifts to the left. 
+A) falls; falls 
+B) rises; rises 
+C) falls; rises 
+D) rises; falls 
+051. When workers and firms become aware of a rise in the general price level: 
+A) they will not do anything, because they know they are powerless to counter any economic changes. 
+B) they will incorporate higher prices into their expectations of future prices. 
+C) firms with sticky prices will ultimately adjust their prices downward. 
+D) they will agree to renegotiate wage contracts downward. 
+052. In the long run, when the actual inflation rate gets embedded into people's expectation: 
+A) the trade-off between inflation and unemployment becomes even stronger. 
+B) it is possible to achieve lower unemployment in the long run by accepting higher inflation. 
+C) there is no longer a trade-off between inflation and unemployment. 
+D) actual inflation at any unemployment rate is always higher than expected inflation. 
+053. The NAIRU is: 
+A) the inflation rate at which the unemployment rate does not change over time. 
+B) a trade-off between unemployment and inflation. 
+C) the unemployment rate at which inflation does not change over time. 
+D) a rate at which it is possible to achieve lower unemployment by accepting higher inflation. 
+054. Which of the following accurately describes disinflation? 
+A) It must be accompanied by a decline in the price level. 
+B) The inflation rate rises at a higher rate. 
+C) It is the process of bringing down the inflation that has become embedded in expectations. 
+D) It is a gradual reduction in the price level over time. 
+055. To bring disinflation to an economy, policy makers must: 
+A) slow down labor productivity growth. 
+B) increase the money supply in order to release the economy from the liquidity trap. 
+C) keep unemployment below its natural rate for an extended period. 
+D) lower expectations about inflation. 
+056. Analysis of the Phillips curve reveals that a __________ in unemployment, like that of the early 1980s, is needed to break the cycle of inflationary expectations. 
+A) permanent increase 
+B) permanent decrease 
+C) temporary increase 
+D) temporary decrease 
+058. The U.S. government reports a core inflation rate that excludes _____ and _____ prices to remove the volatility of those two sectors from inflation estimates. 
+A) housing; automobile 
+B) steel; housing 
+C) energy; food 
+D) gasoline; housing 
+059. Deflation: 
+A) hurts borrowers and helps lenders. 
+B) helps borrowers and hurts lenders. 
+C) unlike inflation, affects neither borrowers nor lenders. 
+D) has effects on borrowers and lenders that depend on the amount of the loan. 
+060. The problem of debt deflation deepens during an economic slump because: 
+A) borrowers have to reduce spending to pay back burdensome debts. 
+B) the Fisher effect raises the nominal interest rate during a period of deflation. 
+C) lenders have to lower spending in order to accommodate higher returns from loans.
+D) the zero bound on the nominal interest rate is broken. 
+061. During periods of deflation _____ will be hurt and _____ will be helped. 
+A) firms; borrowers 
+B) borrowers; lenders 
+C) consumers; firms 
+D) home buyers; home sellers 
+062. When economists state that there is a zero bound on nominal interest rates, they mean that: 
+A) the real interest rate cannot go below zero. 
+B) the nominal interest rate cannot go below zero. 
+C) the real interest rate can very well be negative. 
+D) the nominal interest rate can always go below zero. 
+063. If the economy is in a liquidity trap: 
+A) both monetary and fiscal policies are effective.
+B) neither monetary nor fiscal policy is effective.
+C) monetary policy is effective, but fiscal policy is not. 
+D) fiscal policy is effective, but monetary policy is not. 
+064. Expecting the inflation rate to be 3%, Tony decides to put his savings in a 12-month certificate of deposit yielding a fixed 6% interest rate. If the actual inflation rate is ________, it can be argued that ________ is (are) worse off. 
+A) above 3%; the bank issuing the certificate 
+B) exactly 6%; both the bank and Tony 
+C) below 3%; Tony 
+D) below 3%; the bank issuing the certificate 
+065. A liquidity trap is a situation in which: 
+A) using expansionary monetary policy is not effective because the real interest rate is negative. 
+B) aggregate demand falls because consumers do not have enough liquidity to consume. 
+C) using expansionary monetary policy is not effective because the nominal interest rate is almost zero. 
+D) lenders are trapped by large loans with declining rates of return. 
+066. A liquidity trap results from the: 
+A) inflation tax. 
+B) expansionary fiscal policy. 
+C) Fisher effect. 
+D) zero bound of the nominal interest rate. 
+067. The liquidity trap is associated with all of the following EXCEPT: 
+A) a large reduction in the demand for loanable funds. 
+B) the nominal interest rate falls to zero. 
+C) monetary policy becomes ineffective. 
+D) fiscal policy becomes ineffective. 
+068. When Fed officials worried about the possibility of “Japanification” in the United States, it meant that they were worried that the U.S. economy would: 
+A) grow faster than the economy of Japan after World War II. 
+B) accumulate large trade surpluses, like Japan. 
+C) fall into a period of hyperinflation. 
+D) fall into a deflationary trap. 
+069. The measure used by the Fed that excludes food and energy prices is the: 
+A) consumer price index. 
+B) wholesale price index. 
+C) core inflation rate. 
+D) federal funds rate. 
+070. The Fed tries to keep the core inflation rate around: 
+A) zero. 
+B) 2%. 
+C) 4%. 
+D) 5%. 
+075. Suppose the economy is in long-run equilibrium. The government has just decided to lower income taxes. The long-run impact of this policy will be: 
+A) a decrease in the natural rate of unemployment and an increase in inflation. 
+B) a decrease in the natural rate of unemployment and no change in inflation. 
+C) no change in the natural rate of unemployment and an increase in inflation. 
+D) no change in the natural rate of unemployment and no change in inflation. 
+076. In the long run, an increase in the money supply: 
+A) will increase real GDP and the price level. 
+B) causes people to hold onto large sums of money. 
+C) results in no change in real GDP. 
+D) encourages people to save more money. 
+077. When an economy has high inflation: 
+A) wage and price stickiness lessen or disappear. 
+B) the Keynesian model of the economy is most relevant. 
+C) wages become more inflexible as workers wait for prices to stabilize. 
+D) changes in the money supply take much longer to affect the inflation rate. 
+078. If a central bank pursues an expansionary monetary policy: 
+A) the aggregate price level and level of real GDP will increase in the short run. 
+B) the level of real GDP will increase, but the aggregate price level will stay the same in the long run. 
+C) nominal prices and nominal wages will be unaffected in the long run. 
+D) the aggregate price level will increase and the level of real GDP will decrease in the short run. 
+079. Government's right to print money to finance deficits is referred to as: 
+A) open-market sales. 
+B) seigniorage. 
+C) fiat money implementation. 
+D) crowding out. 
+080. When inflation is high: 
+A) people will increase their level of real-money holdings. 
+B) people will save more. 
+C) lenders gain at the expense of borrowers. 
+D) people will decrease their level of real-money holdings. 
+081. During an inflationary gap: 
+A) the unemployment rate is less than the natural rate of unemployment. 
+B) actual output is less than potential output. 
+C) the unemployment rate is equal to the natural rate of unemployment. 
+D) wages and prices must fall in order to restore the economy to its potential output. 
+082. A negative output gap is associated with: 
+A) an unusually low unemployment rate. 
+B) a natural rate of unemployment. 
+C) an unusually high unemployment rate. 
+D) no changes in the unemployment rate. 
+083. A negative output gap implies: 
+A) an unemployment rate above the natural rate. 
+B) an unemployment rate below the natural rate. 
+C) an unemployment rate equal to the natural rate. 
+D) an unemployment rate that equals the frictional and structural amounts of unemployment. 
+084. As a result of a downturn in the economy, a firm cuts back on workers' hours but does not fire workers. Following Okun's law, this is one reason: 
+A) the relationship between the output gap and the unemployment rate is positive. 
+B) the relationship between the output gap and the unemployment is negative and less than a one-to-one relationship. 
+C) a negative output gap is associated with an unusually low unemployment rate. 
+D) a positive output gap is associated with an unusually high unemployment rate. 
+085. Suppose an economy's aggregate price level increases and its aggregate level of real GDP decreases. This could arise from: 
+A) a positive demand shock. 
+B) a negative supply shock. 
+C) a positive supply shock. 
+D) a negative demand shock. 
+086. If an economy's short-run Phillips curve shifts up, this is most likely due to: 
+A) a change in the inflation rate. 
+B) an increase in the unemployment rate. 
+C) an increase in expected inflation. 
+D) a contractionary fiscal policy. 
+087. Disinflation: 
+A) involves eliminating inflation in an economy. 
+B) policy often results in plunging the economy into a major recession. 
+C) occurs as a result of a policy makers' attempts to correct a major recession. 
+D) results in a fall in the unemployment rate. 
+088. When an economy has debt deflation: 
+A) aggregate demand increases, since the real debt burden is reduced. 
+B) aggregate demand is not affected, since real variables are not affected. 
+C) aggregate demand decreases as borrowers' real debts increase, which leads to less spending. 
+D) the economy moves quickly to its potential output. 
+089. During a liquidity trap: 
+A) monetary policy is ineffective, since nominal interest rates cannot fall below zero. 
+B) the money market is in disequilibrium. 
+C) the only tool that the Federal Reserve finds effective is expansionary monetary policy. 
+D) nominal interest rates will rise regardless of what policy the Federal Reserve pursues. 
+090. Investment banks differ from commercial banks because: 
+A) commercial banks are allowed to advertise, but investment banks are prohibited from advertising. 
+B) commercial banks can have offices only in one state, but investment banks can have offices in many countries. 
+C) commercial banks do not sell foreign currencies, but investment banks do. 
+D) commercial banks accept deposits from customers, but investment banks do not. 
+091. A financial intermediary that provides liquid assets in the form of deposits to savers and uses its funds to finance illiquid investment spending needs of borrowers is a(n): 
+A) insurance company. 
+B) bank. 
+C) pension fund. 
+D) hedge fund. 
+092. A shadow bank is a: 
+A) branch of the main office of a bank. 
+B) bank that is operated by a shadow government. 
+C) financial firm that is not closely watched or effectively regulated. 
+D) a credit union or a savings and loan institution. 
+093. Without banks, people would: 
+A) hold more of their wealth as cash. 
+B) hold less of their wealth as cash. 
+C) invest most of their wealth in real estate. 
+D) earn higher rates of return and enjoy more liquidity. 
+094. Depository banks: 
+A) borrow on a short-term basis from depositors and lend on a long-term basis to others. 
+B) borrow on a long-term basis from depositors and lend on a long-term basis to others. 
+C) borrow on a short-term basis from depositors and lend on a short-term basis to others. 
+D) borrow on a long-term basis from depositors and lend on a short-term basis to others. 
+095. Most of a bank's short-term liabilities are: 
+A) loans from the Federal Reserve. 
+B) loans from the U.S. Treasury. 
+C) loans to its customers. 
+D) deposits of customers' savings. 
+096. Maturity transformation is converting: 
+A) short-term liabilities into long-term assets. 
+B) short-term liabilities into short-term assets. 
+C) long-term liabilities into long-term assets. 
+D) long-term liabilities into short-term assets. 
+097. Which of the following is an example of maturity transformation? 
+A) Anne sells her house for $200,000 and uses the money to open a bakery. 
+B) Matthew sells his car and uses the money to pay college tuition. 
+C) Justin takes $10,000 from his savings account and uses it to buy some Apple stock.
+D) Michael closes his checking account at Bank of America and opens a checking account at a local credit union. 
+098. Which of the following is an example of maturity transformation? 
+A) Jordan borrows $15,000 to buy a car. 
+B) Aaron buys new running shoes and pays for them with his American Express credit card. 
+C) Angela gives Russell $100 in cash for a graduation gift. 
+D) Tyler lends $1,000 to his roommate Nick for a year. 
+099. Shadow banks differ from commercial banks because shadow banks: 
+A) accept deposits only from businesses and state and local governments, not from individuals. 
+B) are not subject to as many regulations as commercial banks. 
+C) are not allowed to pay interest on deposits. 
+D) can operate branches in more than one state. 
+100. Since the early 1980s, shadow banks have increased because they: 
+A) are not subject to capital requirements and reserve requirements. 
+B) offer online bill payment to their depositors. 
+C) pay lower interest rates on their deposits than commercial banks. 
+D) offer lower interest rates on their commercial loans than commercial banks. 
+101. When shadow banks engage in maturity transformation, they raise funds by ___________ and invest in _________. 
+A) issuing stock; stock of other companies 
+B) selling bonds; Treasury bills 
+C) borrowing in short-term credit markets; longer-term speculative investments 
+D) borrowing in long-term credit markets; short-term speculative investments 
+102. Shadow banks offer their customers a higher rate of return than commercial banks because: 
+A) shadow banks can pay interest on deposits, but commercial banks cannot pay interest on deposits. 
+B) shadow banks are allowed to invest in stocks of foreign corporations, while commercial banks can invest only in stocks of American corporations. 
+C) shadow banks must hold more reserves and capital than commercial banks, 
+D) shadow banks are not subject to reserve and capital requirements, but commercial banks must hold reserves and meet capital requirements. 
+103. In a bank run: 
+A) the bank has a surplus of deposits and must turn customers away . 
+B) bank customers try to withdraw their deposits. 
+C) the bank runs out of money to lend to customers.
+D) the bank runs out of profitable investments for the funds of its depositors. 
+104. Which of the following are regulations intended to prevent bank runs? 
+A) the Sherman Anti-Trust law 
+B) regulation Q, which prohibits banks from paying interest on demand deposits 
+C) deposit insurance 
+D) maturity transformation 
+105. All of the following are regulations designed to prevent bank runs EXCEPT: 
+A) asset bubbles. 
+B) capital requirements. 
+C) reserve requirements. 
+D) provisions that allow banks to borrow from the Fed's discount window. 
+106. A shadow bank engages in maturity transformation by: 
+A) accepting short-term deposits from businesses and making short-term loans to commercial banks. 
+B) accepting long-term deposits from businesses and making long-term loans to commercial banks. 
+C) borrowing money short term and lending or investing long term. 
+D) borrowing money long term and lending or investing short term. 
+107. A banking crisis occurs: 
+A) whenever there is an asset bubble. 
+B) if shadow banks begin to accept deposits. 
+C) when banks engage in maturity transformation by accepting short-term deposits and converting them into long-term loans or investments. 
+D) when a large part of the depository banking sector or the shadow banking sector fails or threatens to fail. 
+108. A vicious downward spiral among banks in which each institution's failure increases the likelihood that another will fail is a(n): 
+A) asset bubble. 
+B) maturity transformation. 
+C) multiplier effect. 
+D) financial contagion. 
+109. In a vicious cycle of deleveraging, financial institutions: 
+A) sell assets at a deep discounts. 
+B) sell assets at unreasonably high prices. 
+C) buy assets at deep discounts. 
+D) buy assets at unreasonably high prices. 
+110. During the early 1930s, approximately _______ of the banks in the United States failed.
+A) 75% 
+B) 40% 
+C) 10% 
+D) 3% 
+111. To put an end to the vicious cycle of bank failures during the early 1930s: 
+A) President Franklin Roosevelt declared a bank holiday, temporarily closing all banks. 
+B) the Federal Reserve System was established. 
+C) a system of shadow banks was developed to replace the troubled commercial banks. 
+D) the government nationalized all commercial banks. 
+112. Following the banking crises of the early 1930s: 
+A) real GDP and the price level increased at a rapid pace. 
+B) real GDP increased and the price level decreased. 
+C) real GDP and the price level both decreased. 
+D) real GDP decreased and the price level increased. 
+113. In the early 1990s, banking crises occurred in Finland, Sweden, and Japan because: 
+A) of real estate bubbles in each country. 
+B) the central banks of these countries were prohibited from conducting monetary policy. 
+C) the value of the euro fell to historically low levels. 
+D) there were many runs on banks. 
+114. The “wholesale” funding that Irish banks used to fund real estate loans came primarily from: 
+A) the European Union central bank. 
+B) long-term, low-interest loans from the Irish government. 
+C) bank deposits of individuals. 
+D) short-term loans from other banks and private investors. 
+115. To stabilize the banking crisis in Ireland: 
+A) the Irish government guaranteed all bank debt. 
+B) the European Union central bank revalued the euro. 
+C) the European Union central bank devalued the euro. 
+D) the Irish government declared a bank holiday for several weeks. 
+116. As a consequence of the Irish banking crisis: 
+A) the budget surplus of the Irish government is growing to record levels. 
+B) the Irish government has to pay high interest rates on money it borrowed in international markets, and its solvency is in question. 
+C) unemployment fell to less than 3%. 
+D) Ireland has been forced to leave the European Union. 
+117. What did the panic of 1893 in the United States and the Swedish banking crisis of 1991 have in common? 
+A) Each was followed by a period of record high growth rates of real GDP. 
+B) Both were ended by aggressive monetary policies of the central bank. 
+C) Each was followed by a deep recession and slow recovery. 
+D) Both were caused by a real estate bubble. 
+118. A credit crunch causes a recession because: 
+A) potential borrowers can't get loans or must pay very high interest rates, so they cut back on spending. 
+B) banks have a surplus of funds to loan, so interest rates fall to very low levels. 
+C) unemployment falls to very low levels, causing a problem of inflation. 
+D) interest rates are so low that investors' incomes fall, and they decrease their spending. 
+119. Debt overhang is the result of: 
+A) maturity transformation. 
+B) a vicious cycle of deleveraging. 
+C) falling unemployment. 
+D) rising inflation. 
+120. The Fed usually responds to a recession by: 
+A) buying short-term government debt from banks. 
+B) selling short-term government debt to banks. 
+C) raising interest rates. 
+D) increasing reserve requirements. 
+121. When the Fed conducts open market purchases from banks, interest rates: 
+A) decrease. 
+B) increase. 
+C) remain constant. 
+D) fluctuate randomly. 
+122. The purpose of open market purchases is to: 
+A) decrease the government budget deficit. 
+B) increase the government budget deficit. 
+C) increase consumer and investment spending. 
+D) decrease consumer and investment spending. 
+123. When borrowers don't respond to short-term interest rates of zero, the economy is experiencing: 
+A) a liquidity trap. 
+B) hyperinflation. 
+C) an asset bubble. 
+D) maturity transformation. 
+124. Before the Great Depression in the 1930s, the government: 
+A) nationalized all banks that were close to failure. 
+B) allowed banks to fail, believing that free-market forces should be allowed to work. 
+C) lent money to banks that were in poor financial condition. 
+D) guaranteed deposits of individuals. 
+125. Which of the following is an action of central banks and governments to lessen the severity of a banking crisis? 
+A) establishing shadow banks 
+B) government guarantees of bank deposits 
+C) encouraging asset bubbles 
+D) opening a liquidity trap 
+126. By acting as a lender of last resort, the central bank: 
+A) prevents a loss of confidence in banks and avoids bank runs. 
+B) is able to keep interest rates high so that spending increases. 
+C) is increasing the amount of reserves that a bank is required to hold. 
+D) may keep inflation low, but will likely cause unemployment to increase. 
+127. During the financial crisis of 2008, the Fed: 
+A) was closed for a three-week bank holiday by President George W. Bush. 
+B) remained open but was severely limited in its operations. 
+C) was merged with the Treasury Department to increase its power to deal with the crisis. 
+D) expanded its operations by lending to institutions other than commercial banks and buying financial assets other than Treasury bills. 
+128. The recession that began in 1929 turned into the Great Depression primarily because of: 
+A) the banking crisis. 
+B) the beginning of World War II. 
+C) taxes that were too low to finance the new government programs that became necessary during the Depression. 
+D) powerful labor unions that demanded high wages and generous benefits. 
+129. In a credit crunch: 
+A) interest rates are so low that savers decrease the quantity of available loanable funds. 
+B) borrowers are forced to pay very high interest rates or may not be able to borrow at all. 
+C) unemployment is usually very low and the growth rate of output is very high. 
+D) the spread becomes negative. 
+130. During the banking crisis of the 1930, the Federal Reserve: 
+A) ended the crisis by acting aggressively as a lender of last resort. 
+B) rushed to guarantee the liabilities of failing banks. 
+C) was established to resolve the banking crisis. 
+D) had the legal ability to act as a lender of last resort but failed to do so. 
+131. Long-term unemployment is measured by the percentage of the unemployed who have been out of work for: 
+A) a week or longer. 
+B) 6 weeks or longer. 
+C) 20 weeks or longer. 
+D) 27 weeks or longer. 
+132. The threat of a financial crisis in 2011 and 2012 was based on problems with: 
+A) home loans in Germany. 
+B) political instability in France. 
+C) public debt problems in southern Europe and Ireland. 
+D) striking labor unions in northern Europe. 
+133. The spread between the interest rates on 10-year bonds issued by the governments of Italy and Spain and the interest rates on 10-year bonds issued by _______ is a measure of risk. 
+A) Great Britain 
+B) Germany 
+C) Ireland 
+D) France 
+134. Fiscal stimulus is: 
+A) expansionary fiscal policy, such as increases in government spending and tax cuts designed to reduce unemployment and increase output. 
+B) expansionary fiscal policy, such as increases in government spending and tax cuts designed to increase unemployment and decrease output. 
+C) contractionary fiscal policy, such as decreases in government spending and tax increases designed to reduce budget deficits. 
+D) contractionary fiscal policy, such as decreases in government spending and tax increases designed to increase budget deficits. 
+135. Expansionary fiscal measures, such as more government spending and tax cuts designed to reduce unemployment, are called: 
+A) fiscal austerity. 
+B) fiscal stimulus. 
+C) automatic stabilizers. 
+D) maturity transformation. 
+136. Fiscal austerity is: 
+A) expansionary fiscal policy, such as increases in government spending and tax cuts designed to reduce unemployment and increase output. 
+B) expansionary fiscal policy, such as increases in government spending and tax cuts designed to increase unemployment and decrease output. 
+C) contractionary fiscal policy, such as decreases in government spending and tax increases designed to reduce budget deficits. 
+D) contractionary fiscal policy, such as decreases in government spending and tax increases designed to increase budget deficits. 
+137. Contractionary fiscal measures, such as less government spending and tax increases designed to reduce budget deficits, are called: 
+A) fiscal austerity. 
+B) fiscal stimulus. 
+C) automatic stabilizers. 
+D) maturity transformation. 
+138. Proponents argued that fiscal stimulus was appropriate after the 2008 financial crisis because most major economies had: 
+A) low unemployment and low inflation. 
+B) low unemployment and high inflation. 
+C) high unemployment and low inflation. 
+D) high unemployment and high inflation. 
+139. After the 2008 financial crisis, proponents of fiscal austerity argued that the primary problem for the United States and Europe was: 
+A) high levels of government deficits and debt that eroded investor confidence. 
+B) powerful labor unions that kept wages too high. 
+C) unemployment. 
+D) inflation. 
+140. Which of the following is NOT one of the problems facing almost all major economies after the 2008 financial crisis? 
+A) high unemployment 
+B) low growth of output 
+C) high interest rates on public debt 
+D) inflation 
+141. The Dodd-Frank bill affected derivatives by: 
+A) prohibiting them. 
+B) requiring that the issuer guarantee 50% of the purchaser's investment. 
+C) allowing them to be purchased and sold only by the Federal Reserve. 
+D) requiring that they be traded in transparent markets. 
+142. According to the Dodd-Frank bill, shadow banks: 
+A) are prohibited. 
+B) must all be merged with commercial banks. 
+C) are allowed to operate only in other countries. 
+D) are subject to bank-like regulation of their capital and investments. 
+143. Subprime mortgages are mortgages: 
+A) on which the interest rate is less than the prime rate. 
+B) that are in default. 
+C) that are made to buyers with too little income or too few assets to qualify for a standard mortgage. 
+D) that only the government can make. 
+144. A situation in which borrowers cannot find credit or must pay very high interest rates for loans is called a: 
+A) liquidity trap. 
+B) zero-bound limit. 
+C) credit crunch. 
+D) stagflation. 
+145. The difference between commercial banks and investment banks is that: 
+A) commercial banks accept deposits from customers, while investment banks trade financial assets but don't accept deposits. 
+B) commercial banks are not allowed to make profits, while investment banks are allowed to profit from buying and selling financial assets. 
+C) commercial banks cannot own financial assets, while investment banks are able to own a wide variety of financial assets. 
+D) commercial banks are a type of shadow bank, while investment banks are not. 
+146. Which of the following financial institutions is an example of a shadow bank? 
+A) credit union 
+B) commercial bank 
+C) savings and loan 
+D) hedge fund 
+147. Maturity transformation can be done: 
+A) by depository banks but not by shadow banks. 
+B) by shadow banks but not by depository banks. 
+C) by both depository banks and shadow banks. 
+D) by neither depository banks nor shadow banks. 
+148. After a banking crisis, when the Federal Reserve buys government securities to increase the money supply and decrease interest rates: 
+A) consumers and businesses may not respond by increasing their spending because of debt overhang. 
+B) consumers and businesses usually borrow too much and spend too much, causing inflation. 
+C) banks may fear runs, so they hold on to excess reserves rather than lending them to consumers and businesses. 
+D) consumers and businesses may not respond because the recession has increased the value of their assets so much that they don't need to borrow money in order to buy more. 
+149. After the 2008 financial crisis, policy makers realized that the scope of banking regulation was: 
+A) too narrow, because the Federal Reserve was the only agency with any power to regulate banks. 
+B) too broad, because both depository and shadow banks were overregulated. 
+C) too broad, because market forces, not government regulation, should be allowed to determine the outcome of a financial crisis. 
+D) too narrow, because shadow banks were not subject to much regulation. 
+150. If a financial institution is systemically important: 
+A) it is an important part of the Federal Reserve banking system. 
+B) it is affected more than the average financial institution by the business cycle. 
+C) its activities have the potential to create a banking crisis. 
+D) it is not allowed to engage in maturity transformation. 
+151. When the dollar value of the Swiss franc was very high following the financial crisis in 2008: 
+A) Swiss exports were more expensive in the United States. 
+B) Swiss exports were less expensive in the United States. 
+C) the Swiss National Bank sold Swiss francs to increase its value. 
+D) the Swiss National Bank bought francs to decrease its value. 
+152. Open-economy macroeconomics is the branch of economics that deals with: 
+A) reducing regulations on business. 
+B) the relationships between economies of different nations. 
+C) reducing employment discrimination. 
+D) the provision of financial information to investors. 
+153. Economists summarize a country's transactions with other countries with a(n) _____ account. 
+A) circular flow 
+B) balance of payments 
+C) exchange rate 
+D) purchasing power parity 
+155. If the balance of payments on financial account is $25, the balance of payments on goods and services is –$20, and the statistical discrepancy in the financial account is $2, then net international transfer payments and net international factor income are: 
+A) –$7. 
+B) –$5. 
+C) $7. 
+D) $47. 
+156. Assume that Tom sells a crate of Florida oranges to a retailer in Canada and Susan sells a U.S. bond to a customer in Britain. Which of the following illustrates the difference and/or similarities between these two transactions?
+A) Only Tom will actually receive U.S. dollars as a result of this transaction. 
+B) The sale of the bond to the customer in Britain creates a liability, while the sale of the oranges does not. 
+C) Both sales create an asset for the United States. 
+D) Both sales create a liability for the United States. 
+157. If a country has a current account deficit, it must have a: 
+A) financial account surplus. 
+B) balance of payment surplus. 
+C) financial account deficit. 
+D) balance of payments deficit. 
+158. A current account deficit is generally a result of:
+A) imports exceeding exports. 
+B) U.S. purchases of bonds issued by foreign corporations. 
+C) a large amount of U.S. purchases of foreign real estate. 
+D) exports exceeding imports. 
+161. A Brazilian bank buys shares of stock in Intel, an American high-tech company. In the U.S. balance of payments, this transaction causes the balance on the _____ account to _____. 
+A) current; decrease 
+B) current; increase 
+C) financial; decrease 
+D) financial; increase 
+162. An American deposits $10,000 in an account in a London bank. In the U.S. balance of payments, this transaction causes the balance on the _____ account to _____. 
+A) financial; increase 
+B) financial; decrease 
+C) current; decrease 
+D) current; increase 
+163. Suppose that the equilibrium interest rate in the U.S. market for loanable funds is 3% prior to any international capital flows in the United States. In Japan, the equilibrium interest rate in the Japanese market for loanable funds is 7%. If lenders in both nations believe that loans to foreigners are just as good as loans to their own citizens, we would expect: 
+A) capital to flow from the United States to Japan, making interest rates rise in Japan and interest rates fall in the United States. 
+B) capital to flow from Japan to the United States, making interest rates fall in Japan and interest rates rise in the United States. 
+C) capital to flow from Japan to the United States, making interest rates rise in Japan and interest rates fall in the United States. 
+D) capital to flow from the United States to Japan, making interest rates fall in Japan and interest rates rise in the United States. 
+164. Direct foreign investment means the purchase of: 
+A) shares of stock in foreign companies. 
+B) bonds of a foreign country. 
+C) bank loans in a foreign country. 
+D) factories in a foreign country. 
+168. If asset owners in Japan and the United States consider Japanese and U.S. assets as good substitutes for each other and if the U.S. interest rate is 5% while the Japanese interest rate is 2%: 
+A) financial inflows will reduce the U.S. interest rate. 
+B) financial outflows will reduce the Japanese interest rate. 
+C) the interest rate gap between the United States and Japan will grow. 
+D) financial inflows will increase the U.S. interest rate. 
+169. The exchange rate is the: 
+A) interest rate differential between countries. 
+B) balance of trade differential between countries.
+C) relative price of currencies between countries. 
+D) relative price of gold between countries. 
+170. If the exchange rate is $1 = ¥110, a $20,000 Ford truck costs _________ in Japan. 
+A) ¥20,000 
+B) ¥18,182 
+C) ¥2.2 million 
+D) ¥3 million 
+171. When the value of a pound sterling changes from US$1.50 to US$2, it follows that the: 
+A) U.S. dollar has depreciated. 
+B) British pound has depreciated. 
+C) U.S. dollar has appreciated. 
+D) value of a U.S. dollar has gone from £0.5 to £0.6. 
+172. When the value of the euro changes from $1.30 to $1.20, it follows that: 
+A) European Union imports from the United States increase. 
+B) U.S. exports to the European Union increase. 
+C) U.S. imports from the European Union increase. 
+D) European Union exports to the United States decrease. 
+173. When the U.S. dollar price of a foreign currency rises: 
+A) it becomes cheaper for foreigners to buy U.S. goods. 
+B) it becomes cheaper for us to buy foreign goods. 
+C) foreign goods go down in price. 
+D) we need fewer dollars to buy the foreign currency. 
+174. Suppose that Europeans begin to view the United States as a more attractive investment opportunity. Which of the following is likely to occur? 
+A) a depreciation of the dollar, which will raise U.S. exports 
+B) an appreciation of the dollar, which will discourage Europeans from buying American goods and services 
+C) a depreciation of the dollar, which will lower U.S. exports 
+D) a depreciation of the dollar, which will make Europeans buy more American products 
+175. The Japanese will demand U.S. dollars in all of the following cases EXCEPT: 
+A) to buy real estate in New York City. 
+B) to buy a GM car in Japan. 
+C) to see a Hollywood movie in Tokyo. 
+D) to invest in Japanese stocks. 
+176. Between 1990 and 2007, the Mexican peso fell against the U.S. dollar by almost three-fourths of its original value. However, economists have concluded that this did not result in the price of Mexican products expressed in dollars to fall by two-thirds. Which of the following is the explanation for this apparent paradox? 
+A) Interest rates in the United States were increasing. 
+B) Inflation in the United States was moving up steadily. 
+C) The inflation rate in Mexico over that same period was higher than that of the United States. 
+D) The real exchange rate had fallen. 
+182. A fixed exchange rate is: 
+A) determined by the market. 
+B) set by government. 
+C) set by the International Monetary Fund. 
+D) determined by the United Nations. 
+183. A floating exchange rate is: 
+A) determined by the market. 
+B) set by government. 
+C) set by the International Monetary Fund. 
+D) determined by the United Nations. 
+184. If a government fixes the exchange rate ________ the market equilibrium, there will be a shortage of the domestic currency and a tendency for the exchange rate (U.S. dollars per unit of the domestic currency) to ________. 
+A) below; fall 
+B) above; rise 
+C) below; rise 
+D) above; fall 
+185. A major drawback of adopting a floating exchange rate is the: 
+A) opportunity cost associated with the accumulation of foreign exchange reserves. 
+B) uncertainty about the value of goods traded internationally. 
+C) increased discipline brought on monetary policy.
+D) distorted incentives imposed on the normal flow of imports and exports. 
+186. Devaluation is reduction in the: 
+A) value of a currency due to inflation. 
+B) value of a currency that is determined in a floating exchange rate system. 
+C) value of a currency that is set under a fixed exchange rate regime. 
+D) rate of inflation of a country. 
+187. According to the principle of purchasing power parity, the 2001 devaluation of the Argentinean peso: 
+A) increased the inflation rate in Argentina relative to the inflation rate in the United States. 
+B) made Argentinean imports from the United States cheaper. 
+C) decreased the inflation rate in Argentina relative to the inflation rate in the United States. 
+D) had no impact on the Argentinean inflation rate.
+188. If a country's current account is positive: 
+A) its financial account is also positive. 
+B) its balance of payments is positive. 
+C) its financial account is negative. 
+D) its balance of payments is negative.
+!!ANSWERS!!
+001. D 
+002. C 
+003. C 
+004. B 
+005. A 
+006. C 
+007. D 
+008. C 
+009. B 
+010. A 
+011. D 
+012. B 
+013. A 
+014. A 
+015. D 
+016. A 
+017. C 
+018. C 
+019. C 
+020. B 
+021. C 
+022. D 
+023. C 
+024. A 
+025. D 
+026. B 
+027. C 
+028. D 
+029. A 
+030. C 
+031. A 
+032. A 
+033. C 
+034. B 
+035. B 
+036. B 
+037. C 
+038. B 
+039. B 
+040. C 
+041. B 
+042. D 
+043. C 
+044. B 
+045. B 
+046. C 
+047. B 
+048. D 
+049. B 
+050. A 
+051. B 
+052. C 
+053. C 
+054. C 
+055. D 
+056. C 
+057. B 
+058. C 
+059. A 
+060. A 
+061. B 
+062. B 
+063. D 
+064. D 
+065. C 
+066. D 
+067. D 
+068. D 
+069. C 
+070. B 
+071. C 
+072. A 
+073. B 
+074. B 
+075. C 
+076. C 
+077. A 
+078. A 
+079. B 
+080. D 
+081. A 
+082. C 
+083. A 
+084. B 
+085. B 
+086. C 
+087. B 
+088. C 
+089. A 
+090. D  
+091. B 
+092. C 
+093. A 
+094. A 
+095. D 
+096. A 
+097. C 
+098. D 
+099. B 
+100. A 
+101. C 
+102. D 
+103. B 
+104. C 
+105. A 
+106. C 
+107. D 
+108. D 
+109. A 
+110. B 
+111. A 
+112. C 
+113. A 
+114. D 
+115. A 
+116. B 
+117. C 
+118. A 
+119. B 
+120. A 
+121. A 
+122. C 
+123. A 
+124. B 
+125. B 
+126. A 
+127. D 
+128. A 
+129. B 
+130. D 
+131. D 
+132. C 
+133. B 
+134. A 
+135. B 
+136. C 
+137. A 
+138. C 
+139. A 
+140. D 
+141. D 
+142. D 
+143. C 
+144. C 
+145. A 
+146. D 
+147. C 
+148. A 
+149. D 
+150. C 
+151. A 
+152. B 
+153. B 
+154. B 
+155. A 
+156. B 
+157. A 
+158. A 
+159. B 
+160. D 
+161. D 
+162. B 
+163. D 
+164. D 
+165. A 
+166. C 
+167. C 
+168. A 
+169. C 
+170. C 
+171. A 
+172. C 
+173. A 
+174. B 
+175. D 
+176. C 
+177. B 
+178. A 
+179. C 
+180. B 
+181. C 
+182. B 
+183. A 
+184. C 
+185. B 
+186. C 
+187. A 
+188. C 

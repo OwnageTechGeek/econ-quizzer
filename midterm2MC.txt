@@ -1,0 +1,1428 @@
+001. If the MPS = 0.1, then the value of the multiplier equals: 
+A) 1. 
+B) 5. 
+C) 9. 
+D) 10. 
+002. If the multiplier equals 4, then the marginal propensity to save must be equal to: 
+A) 1/4. 
+B) 1/2. 
+C) 3/4. 
+D) the marginal propensity to consume. 
+003. Suppose that the marginal propensity to consume is 0.8, and investment spending increases by $100 billion. The increase in aggregate demand is: 
+A) $100 billion, the same amount as investment spending. 
+B) $125 billion, composed of $100 billion in investment spending and $25 billion in consumption. 
+C) $80 billion, composed of $100 billion in investment spending and a decrease in consumption of $20 billion. 
+D) $500 billion, composed of $100 billion in investment spending and $400 billion in consumption. 
+004. If the marginal propensity to save is 0.3, the size of the multiplier is: 
+A) 3.3. 
+B) 2.3. 
+C) 1.3. 
+D) 0.7. 
+005. The multiplier is: 
+A) 1 / (1 – MPC). 
+B) MPS / MPC. 
+C) 1 / (MPC). 
+D) 1(1 + MPC).
+006. The marginal propensity to consume (MPC) is equal to the change in: 
+A) consumer spending divided by the change in disposable income. 
+B) consumer spending divided by the change in investment spending. 
+C) consumer spending divided by the change in gross domestic product. 
+D) disposable income divided by the change in consumer spending. 
+007. Suppose that a financial crisis decreases investment spending by $100 billion and the marginal propensity to consume is 0.8. Assuming no taxes and no trade, by how much will real GDP change? 
+A) $500 billion decrease 
+B) $200 billion decrease 
+C) $800 billion decrease 
+D) $400 billion increase 
+008. An increase in the MPC: 
+A) increases the multiplier. 
+B) shifts the autonomous investment line upward. 
+C) decreases the multiplier. 
+D) shifts the autonomous investment line downward. 
+009. The _______ the _______, the _______ the multiplier. 
+A) smaller; level of wealth; bigger 
+B) bigger; MPS; bigger 
+C) bigger; MPC; smaller 
+D) bigger; MPC; bigger 
+010. Suppose investment spending increases by $50 billion and as a result the equilibrium income increases by $200 billion. The value of the MPC is: 
+A) 0.8. 
+B) 0.4. 
+C) 0.75. 
+D) 4. 
+011. According to the National Bureau of Economic Research, the U.S. economy is going through a severe recession. Most households are trying to save more of their income than before. This increase in private saving will lead to: 
+A) an increase in aggregate income, as more saving means more funds for business investment. 
+B) a fall in aggregate income, as more saving means people will spend less. 
+C) no change in aggregate income, because there is no saving multiplier. 
+D) an increase in aggregate income, as an increase in saving will make people wealthier. 
+012. If MPS is small, it will: 
+A) make the multiplier smaller. 
+B) make the multiplier larger. 
+C) not affect the value of the multiplier. 
+D) increase the interest rate. 
+015. Suppose the marginal propensity to consume changes from 0.75 to 0.9. How will this affect the consumption function? 
+A) The slope will get steeper. 
+B) Autonomous consumption will increase. 
+C) The function will shift upward. 
+D) The slope will get steeper and autonomous consumption will increase. 
+019. When David has no income, he spends $500. If his income increases to $2,000, he spends $1,900. Which of the following represents his consumption function?
+A) C = 1.2 × YD. 
+B) C = 0.95 × YD. 
+C) C = $500 + 0.7 × YD. 
+D) C = $500 + 1,000 × YD. 
+021. Assuming the A represents autonomous consumption and YD represents disposable income, for the economy as a whole it holds true that: 
+A) C = MPC + (A × YD). 
+B) C = A + (MPC × YD). 
+C) C = (A + MPC) × YD.
+D) C = (A – MPS) + (MPC × YD). 
+022. The slope of the consumption function is equal to the slope of: 
+A) the 45-degree line. 
+B) the aggregate expenditure line. 
+C) the aggregate demand curve. 
+D) the short-run aggregate supply curve. 
+023. An increase in the wealth of households, all other things unchanged, will result in _______ the aggregate consumption function. 
+A) no effect on 
+B) an upward shift in 
+C) a downward shift of 
+D) a movement to the right along 
+024. If the stock market crashes: 
+A) the aggregate consumption function will shift up. 
+B) the aggregate consumption function will shift down. 
+C) unplanned inventory investment will be negative.
+D) GDP will increase. 
+025. Which of the following is NOT a determinate of consumer spending? 
+A) current disposable income 
+B) expected future disposable income 
+C) wealth 
+D) investment spending 
+026. According to the life-cycle hypothesis, wealth affects consumer spending because: 
+A) wealthier people have higher incomes. 
+B) wealthier people have better connections to buy in-demand goods. 
+C) people try to smooth their consumption over the course of their lives. 
+D) people try to consume as early in their lives as they can. 
+027. People are likely to save the most during what part of the life cycle, according to the life-cycle hypothesis? 
+A) as they get closer to retirement. 
+B) in their peak earnings years. 
+C) the older they get. 
+D) in their old age. 
+030. Planned investment spending depends on all of the following EXCEPT: 
+A) the rate of interest. 
+B) the expected future level of real GDP. 
+C) the current productive capacity in the economy. 
+D) the current level of real GDP. 
+031. Most recessions originate from: 
+A) an increase in investment spending. 
+B) a decrease in investment spending. 
+C) an increase in aggregate supply. 
+D) a decrease in aggregate supply. 
+032. If the Federal Reserve increases interest rates to reduce inflation: 
+A) planned investment spending is most likely to increase. 
+B) planned investment spending is most likely to decrease. 
+C) planned investment spending is most likely to remain the same. 
+D) unplanned investment in inventories is likely to be negative. 
+033. If the interest rate rises, then: 
+A) planned investment spending rises. 
+B) more investment projects have a rate of return greater than the interest rate. 
+C) the opportunity cost of investment is greater. 
+D) excess capacity will increase. 
+034. The current level of productive capacity ________________ investment spending. 
+A) has no impact on 
+B) is positively related to 
+C) is negatively related to 
+D) varies directly with 
+035. Inventory investment is: 
+A) a part of planned investment spending and is always positive. 
+B) a part of unplanned investment spending and may either be positive or negative. 
+C) not a part of investment spending by firms, as it can't be properly planned ahead of time. 
+D) a part of the consumption spending, as these are unsold goods. 
+036. Rising inventories typically indicate _______ unplanned inventory investment and a _________ economy. 
+A) positive; slowing 
+B) negative; slowing 
+C) positive; expanding 
+D) negative; expanding 
+037. Actual investment equals: 
+A) planned investment plus unplanned investment. 
+B) planned investment minus unplanned investment. 
+C) unplanned investment minus planned investment. 
+D) planned investment in a free market economy. 
+038. An increase in interest rates on business loans will: 
+A) decrease planned investment spending. 
+B) decrease unplanned investment spending. 
+C) increase planned investment spending. 
+D) increase unplanned investment spending. 
+039. If investment spending increases, the planned aggregate spending line: 
+A) becomes flatter. 
+B) shifts down. 
+C) becomes steeper. 
+D) shifts up. 
+040. An increase in the expected future disposable income of households: 
+A) shifts down the planned aggregate spending line.
+B) increases the slope of the aggregate spending line. 
+C) decreases the slope of the aggregate spending line. 
+D) shifts up the planned aggregate spending line. 
+041. Income–expenditure equilibrium GDP is: 
+A) the level of GDP at which the unemployment rate is zero. 
+B) the level of GDP at which GDP equals planned aggregate spending. 
+C) the level of GDP at which there is no saving. 
+D) the level of GDP at which autonomous consumption equals planned inventory investment. 
+042. If GDP is smaller than planned aggregate spending, then: 
+A) unplanned inventory investment is positive. 
+B) GDP will fall. 
+C) the economy is in equilibrium. 
+D) unplanned inventory investment is negative. 
+043. At the income–expenditure equilibrium: 
+A) investment net of depreciation is zero. 
+B) planned investment is zero. 
+C) unplanned inventory investment is zero. 
+D) inventory investment is zero. 
+047. The Federal Reserve, the central bank of the United States, has been cutting the interest rate in order to stimulate the recessionary economy. Interest cuts by the Federal Reserve are supposed to: 
+A) lower the savings rate in the economy and stop leakages. 
+B) increase government spending on the economic infrastructure and thus increase GDP through the multiplier process. 
+C) increase cash holding by the general public thus lowering their dependence on credit. 
+D) increase investment spending and thus increase GDP via the multiplier. 
+048. If the slope of the aggregate expenditures curve = 0.8, the multiplier is equal to: 
+A) 1. 
+B) 4. 
+C) 5. 
+D) infinity. 
+049. When Julie Ann's disposable income is $10,000, she spends $10,000, and when her disposable income is $15,000, her spending is $12,500. Julie Ann's autonomous consumption is ________ and her ___________. 
+A) $5,000; MPC = 0.5 
+B) $10,000; MPS = 0.5 
+C) $0; MPC = 0.5 
+D) $0; MPS = 0.5 
+050. A firm has enough retained earnings to finance an investment project. For this firm, the market interest rate: 
+A) is not relevant to the investment decision. 
+B) represents the opportunity cost of using retained earnings. 
+C) will help to calculate the rate of return for the project. 
+D) has no impact on the profitability of the investment project. 
+051. (Scenario: A Country's Consumption Function) Given this consumption function, if this country experienced an increase in income of $10,000, consumption would increase by: Use the following to answer question 51: Scenario: A Country's Consumption Function A country is closed. It has no government sector, and its aggregate price levels and interest rate levels are fixed. Furthermore, the marginal propensity to consume is constant and the country's consumption function is as follows: C = 200 + 0.75YD, where YD is disposable income and C is consumption. Assume that planned investment equals 75. 
+A) $10,000. 
+B) $7,500. 
+C) $200. 
+D) $7,700. 
+052. The marginal propensity to consume is equal to: 
+A) the proportion of consumer spending as a function of aggregate disposable income.
+B) the change in saving divided by the change in aggregate disposable income. 
+C) the ratio of the change in consumer spending to the change in aggregate disposable income. 
+D) the change in saving divided by the change in consumer spending. 
+053. The aggregate demand curve shows the relationship between the aggregate price level and: 
+A) aggregate productivity. 
+B) the aggregate unemployment rate. 
+C) the aggregate quantity of output demanded by households, businesses, the government, and the rest of the world. 
+D) the aggregate quantity of output demanded by businesses only. 
+054. According to the aggregate demand curve, when the aggregate price level _________, the quantity of _________. 
+A) rises; aggregate output supplied falls 
+B) falls; aggregate output demanded falls 
+C) rises; aggregate output demanded falls 
+D) rises; aggregate output demanded does not change
+055. A graphical representation of the relationship between the total quantity of goods and services demanded and the price level is the: 
+A) aggregate demand curve. 
+B) average price level. 
+C) circular flow model. 
+D) GDP curve. 
+056. In general, a change in the price level, all other things unchanged, causes: 
+A) a movement along the aggregate demand curve. 
+B) a shift of the aggregate demand curve. 
+C) both a movement along the aggregate demand curve and a shift in the curve. 
+D) no change in the purchasing power of assets. 
+057. When the aggregate price level increases, the purchasing power of many assets falls, causing a decrease in consumer spending. This is known as the _____ effect and is a reason why the _____ curve slopes _____. 
+A) interest rate; aggregate demand; downward 
+B) wealth; aggregate demand; downward 
+C) interest rate; investment demand; downward 
+D) wealth; short-run aggregate supply; upward 
+058. The aggregate demand curve is negatively sloped in part because of the impact of interest rates on: 
+A) potential output. 
+B) net exports. 
+C) consumption and investment. 
+D) government purchases. 
+059. Which of the following is one of the reasons that the aggregate demand curve slopes downward? 
+A) the paradox of thrift 
+B) the interest rate effect 
+C) the substitution effect 
+D) the income effect 
+060. Which of the following is NOT true about the aggregate demand curve? 
+A) A rise in the price level lowers real wealth and results in a lower level of consumer spending. 
+B) A rise in the price level increases the demand for money, raises the interest rate, and reduces investment spending. 
+C) A fall in the price level will generally lead to a rise in the level of aggregate output demanded. 
+D) A fall in the price level will reduce the demand for money, raise the interest rate, and increase investment spending. 
+061. Suppose that the stock market crashes. Which of the following is most likely to occur? 
+A) the aggregate demand curve shifts to the right 
+B) the aggregate demand curve shifts to the left 
+C) a movement up the aggregate demand curve 
+D) a movement down the aggregate demand curve 
+062. Which of the following factors cannot shift the aggregate demand curve? 
+A) changes in expectations 
+B) changes in wealth 
+C) changes in stock market indices 
+D) changes in the price level 
+063. If prices are constant, but there is an increase in the value of financial assets: 
+A) aggregate supply shifts to the left. 
+B) aggregate supply shifts to the right. 
+C) aggregate demand shifts to the left 
+D) aggregate demand shifts to the right. 
+064. As a result of a decrease in the value of the dollar in relation to other currencies, American imports decrease and exports increase. Consequently, there is a(n): 
+A) increase in short-run aggregate supply. 
+B) decrease in the quantity of aggregate output supplied in the short run. 
+C) increase in aggregate demand. 
+D) decrease in the quantity of aggregate output demanded. 
+065. Suppose that consumer assets and wealth decrease in real value. How will this affect the aggregate demand curve? 
+A) The aggregate demand curve shifts to the left. 
+B) There will be a movement upward along the fixed aggregate demand curve. 
+C) There will be a movement downward along the fixed aggregate demand curve. 
+D) The aggregate demand curve shifts to the right. 
+066. Raising taxes shifts the: 
+A) aggregate demand curve to the left. 
+B) long-run aggregate supply curve to the left. 
+C) aggregate demand curve to the right. 
+D) short-run aggregate supply curve to the left. 
+067. If government increases income tax rates, the aggregate demand curve is likely to: 
+A) shift to the right. 
+B) shift to the left. 
+C) remain constant. 
+D) become positively sloped. 
+068. An increase in government spending, all other things unchanged, will cause the aggregate demand curve to: 
+A) become positively sloped. 
+B) remain constant. 
+C) shift to the right. 
+D) shift to the left. 
+069. If the Fed increases the quantity of money in circulation: 
+A) interest rates decrease, investment increases, and the aggregate demand curve shifts to the right. 
+B) interest rates increase, investment increases, and the aggregate demand curve shifts to the right. 
+C) interest rates decrease, investment increases, and the aggregate demand curve shifts to the left. 
+D) interest rates increase, investment decreases, and the aggregate demand curve shifts to the left. 
+074. During the Great Depression, the United States: 
+A) moved to the right along its aggregate demand curve. 
+B) moved to the right along its short-run aggregate supply curve. 
+C) moved to the left along its aggregate demand curve. 
+D) moved to the left along its short-run aggregate supply curve. 
+075. The aggregate supply curve shows the relationship between: 
+A) the price of oil and the quantity of aggregate output supplied. 
+B) the aggregate price level and the quantity of aggregate output supplied. 
+C) the price of money and the quantity of aggregate output supplied. 
+D) the level of employment and the quantity of aggregate output supplied. 
+076. The SRAS curve is upward sloping because: 
+A) a higher aggregate price level leads to lower output as costs of production increase.
+B) a higher aggregate price level leads to higher output since most production costs are fixed in the short run. 
+C) a lower aggregate price level leads to higher output since production costs tend to fall in the short run. 
+D) a lower aggregate price level leads to higher profit and higher productivity. 
+077. The short-run aggregate supply curve is positively sloped because: 
+A) wages and other costs of production respond immediately to changes in prices. 
+B) profit is lower when prices increase, so output decreases. 
+C) workers are willing to work for lower wages rather than be laid off. 
+D) higher prices lead to higher profit and higher output. 
+078. According to the short-run aggregate supply curve, when the _________ rises, the quantity of _________ rises. 
+A) profit per unit; aggregate output demanded 
+B) aggregate price level; aggregate output supplied
+C) aggregate price level; aggregate output demanded
+D) interest rate; aggregate output supplied 
+079. Profit per unit equals: 
+A) price per unit minus cost per unit. 
+B) price per unit divided by cost per unit. 
+C) cost per unit minus price per unit. 
+D) price per unit minus the nominal wage rate. 
+080. The short-run aggregate supply curve slopes upward because of: 
+A) wage and price stickiness. 
+B) wage and price flexibility. 
+C) increasing technology. 
+D) a reduction in resource availability at higher price levels. 
+081. The _____ curve shows the positive relationship between the aggregate price level and the quantity of aggregate output supplied in the economy. 
+A) aggregate demand curve 
+B) short-run aggregate supply curve 
+C) aggregate spending curve 
+D) long-run aggregate supply curve 
+082. An increase in the aggregate price level will increase: 
+A) short-run aggregate supply. 
+B) the quantity of aggregate output supplied in the short run. 
+C) aggregate demand. 
+D) the quantity of aggregate output demanded. 
+083. Nominal wages are “sticky” because: 
+A) wages are slow to rise in the short run when there are labor shortages and slow to fall even when there is significant level of unemployment. 
+B) wages remain fixed in the long run thereby increasing the profitability of the firms. 
+C) wages are slow to fall in the short run when there are labor shortages and slow to rise even when there is significant level of unemployment. 
+D) in the long run all wages become adjusted for inflation. 
+085. During the Great Depression, the United States experienced a ________ the short-run aggregate supply curve; during the 1979 oil crisis, the United States experienced a _________ in the short-run aggregate supply curve. 
+A) movement down along; a leftward shift 
+B) movement up along; a leftward shift 
+C) movement up along; a rightward shift 
+D) movement down along; a rightward shift 
+086. A general increase in wages will result in the: 
+A) aggregate demand curve shifting to the right. 
+B) aggregate demand curve shifting to the left. 
+C) short-run aggregate supply curve shifting to the right. 
+D) short-run aggregate supply curve shifting to the left. 
+087. In the long run, nominal wages are: 
+A) sticky downward but flexible in an upward direction. 
+B) sticky upward but flexible in a downward direction. 
+C) sticky in both an upward and downward direction.
+D) flexible because contracts and informal agreements are renegotiated in the long run. 
+088. In the long run, the aggregate price level has: 
+A) no effect on the quantity of aggregate output. 
+B) a positive effect on the quantity of aggregate output. 
+C) a negative effect on the quantity of aggregate output. 
+D) an impact on aggregate output but no impact on employment. 
+089. The long-run supply curve illustrates how the aggregate output supplied is: 
+A) positively related to the aggregate price level.
+B) negatively related to the aggregate price level.
+C) unrelated to the aggregate price level. 
+D) a one-to-one correspondence with the aggregate price level. 
+090. The level of output that the economy would produce if all prices, including nominal wages, were fully flexible is called: 
+A) real GDP. 
+B) Keynesian GDP. 
+C) structural GDP. 
+D) potential output. 
+091. Potential output is: 
+A) the level of real GDP that exists when the economy experiences only cyclical unemployment. 
+B) the level of real GDP that the economy would produce if all prices, including nominal wages, were fully flexible. 
+C) the level of real GDP that exists when the actual rate of unemployment is zero. 
+D) the level of real GDP that the economy would produce if all prices, including nominal wages, were sticky. 
+092. All of the following will increase the economy's potential output EXCEPT: 
+A) an increase in physical capital. 
+B) a decrease in the aggregate price level. 
+C) an increase in human capital. 
+D) technological innovation. 
+093. Which of the following is TRUE with respect to the short-run aggregate supply and the long-run aggregate supply? 
+A) The economy can be on both curves simultaneously. 
+B) If the economy is on the short-run aggregate supply curve, it cannot also be on the long-run aggregate supply curve. 
+C) If the economy is on the long-run aggregate supply curve, it cannot also be on the short-run aggregate supply curve. 
+D) The economy can never be in a position where it rests on both curves simultaneously. 
+095. A positive demand shock will: 
+A) increase the aggregate price level and aggregate output. 
+B) decrease the aggregate price level and increase aggregate output. 
+C) increase the aggregate price level and decrease aggregate output. 
+D) decrease both the aggregate price level and aggregate output. 
+096. A natural disaster that destroys part of a country's infrastructure is a type of _________ and therefore shifts the _________ to the _________. 
+A) negative demand shock; aggregate demand curve; right 
+B) negative supply shock; aggregate demand curve; left 
+C) negative supply shock; short-run aggregate supply curve; left 
+D) negative demand shock; long-run aggregate supply curve; left 
+097. Stagflation may result from: 
+A) an increase in the supply of money. 
+B) a decrease in the supply of money. 
+C) an increase in the price of imported oil. 
+D) a decrease in the price of imported oil. 
+098. Unexpectedly rising commodity prices lead to: 
+A) a positive supply shock. 
+B) a positive demand shock. 
+C) a negative supply shock. 
+D) a negative demand shock. 
+099. In the short run, the equilibrium price level and the equilibrium level of total output are determined by the intersection of: 
+A) LRAS and SRAS. 
+B) LRAS and aggregate demand. 
+C) SRAS and aggregate demand. 
+D) potential output and LRAS. 
+100. An increase in aggregate demand will generate _______ in real GDP and _______ in the price level in the short run. 
+A) an increase; an increase 
+B) an increase; no change 
+C) a decrease; no change 
+D) no change; an increase 
+101. An improvement in the business outlook of firms is a type of _________ and therefore shifts the _________ to the _________. 
+A) positive supply shock; long-run aggregate supply curve; right 
+B) positive demand shock; aggregate demand curve; left 
+C) positive supply shock; short-run aggregate supply curve; right 
+D) positive demand shock; aggregate demand curve; right 
+102. If membership falls in labor unions and unions become less popular, then: 
+A) production costs will increase, SRAS will shift to the left, decreasing equilibrium GDP and increasing the aggregate price level. 
+B) production costs will fall, there will be a downward movement along SRAS, equilibrium GDP will increase and aggregate price level will fall. 
+C) production costs will not change, AD will shift to the right, increasing equilibrium GDP and aggregate price level. 
+D) production costs will fall, SRAS will shift to the right, increasing equilibrium GDP and lowering the aggregate price level. 
+103. Potential real GDP is equal to $10,000 and the current level of real GDP is equal to $9,000. The output gap is therefore equal to: 
+A) –90% 
+B) –110% 
+C) –10% 
+D) 10% 
+104. In the long run (as the economy self-corrects), an increase in aggregate demand will cause the price level to _______ and potential output to _______ . 
+A) rise; increase 
+B) fall; decrease 
+C) rise; remain stable 
+D) fall; remain stable 
+105. The intersection of an economy's aggregate demand and long-run aggregate supply curves: 
+A) determines its equilibrium real GDP in both the long run and the short run. 
+B) determines its equilibrium price level in both the long run and the short run. 
+C) occurs at the economy's potential output. 
+D) occurs at high levels of cyclical unemployment. 
+106. If the SRAS curve intersects the aggregate demand curve to the right of LRAS, the result will be: 
+A) a recessionary gap. 
+B) an inflationary gap. 
+C) cyclical unemployment. 
+D) long-run equilibrium. 
+107. In the long run, inflationary and recessionary gaps are self-correcting because, eventually: 
+A) nominal wages rise in order to close an inflationary or fall in order to close a recessionary gap. 
+B) the government applies the right combination of fiscal and monetary policies. 
+C) the multiplier compensates the negative supply or demand shocks. 
+D) nominal wages rise in order to close a recessionary gap and fall to close an inflationary gap. 
+108. In the long run, the economy is: 
+A) self-fulfilling as commodity prices rise during recessionary gaps and fall during inflationary gaps to move the economy to long-run equilibrium. 
+B) self-correcting as prices of goods that are sticky in the short run become very flexible in the long run and thus move the economy to full employment. 
+C) fluctuating as nominal wages rise and fall during short-run economic fluctuations. 
+D) self-correcting as nominal wages rise during recessionary gaps and fall during inflationary gaps to move the economy to long-run equilibrium. 
+109. Which curve is easier to shift? 
+A) the short-run aggregate supply curve 
+B) the long-run aggregate supply curve 
+C) the aggregate demand curve 
+D) all of the curves easily shift 
+114. If the government increases spending in the short run, this will: 
+A) increase aggregate output and aggregate price levels. 
+B) increase aggregate output, but lead to a decrease in aggregate price levels. 
+C) decrease both aggregate output and aggregate price levels. 
+D) decrease aggregate output, but increase aggregate price level. 
+115. When wages rise: 
+A) AS shifts left and aggregate price levels falls. 
+B) AS shifts right and the aggregate output level falls.
+C) AS shifts right and the aggregate price level rises. 
+D) AS shifts left and the aggregate price level rises. 
+116. A negative supply shock often results in: 
+A) a leftward shift of the AD curve. 
+B) an increase in the aggregate price level and a decrease in aggregate output. 
+C) no change in the price level. 
+D) a drop in the unemployment level. 
+117. If an economy is currently in short-run equilibrium where the level of real GDP is greater than potential output, then, in the long run, one will find: 
+A) nominal wages will rise and the SRAS curve will shift left bringing the economy back to its potential real GDP. 
+B) nominal wages will rise shifting the AD curve to the right and restoring real GDP to its potential level. 
+C) nominal wages will fall and the SRAS curve will shift right bringing the economy back to its potential real GDP. 
+D) nominal wages will fall shifting the AD curve to the left and bringing the economy back to its potential real GDP. 
+118. All of the following are sources of federal tax revenue EXCEPT: 
+A) the personal income tax. 
+B) sales taxes. 
+C) social insurance taxes. 
+D) the corporate profits tax. 
+119. Social insurance programs are: 
+A) government programs intended to protect families against economic hardships. 
+B) private insurance policies to protect families from hardships caused by government actions. 
+C) private insurance policies that cover gaps in government-provided health care. 
+D) programs to help unemployed people have a social life. 
+120. Which of the following is NOT an example of government purchases of goods and services? 
+A) a federal prosecutor's salary in a lawsuit against Halliburton 
+B) new pavement for interstate highway I-95 
+C) a surgeon's bill reimbursed under the Medicare program 
+D) equipping U.S. air marshals with electroshock weapons 
+121. Which of the following is NOT an example of government transfers? 
+A) Medicaid-paid prescription drugs for low-income individuals 
+B) unemployment insurance 
+C) a Social Security disability pension 
+D) a reimbursement of personal income tax withheld from wages 
+122. Which of the following is not an example of a government transfer payment? 
+A) environmental protection programs 
+B) Social Security 
+C) Medicare 
+D) Medicaid 
+123. A change in taxes or a change in government transfers affects consumption through a change in: 
+A) autonomous consumption. 
+B) the marginal propensity to save. 
+C) disposable income. 
+D) government spending. 
+124. Consumer spending will rise if: 
+A) government transfers rise. 
+B) the government raises tax rates. 
+C) government transfers fall. 
+D) the government raises tax rates or government transfers fall. 
+125. Suppose the economy is in a recessionary gap. To move equilibrium aggregate output closer to the level of potential output, the best fiscal policy option is to: 
+A) decrease government purchases. 
+B) decrease taxes. 
+C) decrease government transfers. 
+D) increase real interest rates. 
+126. If the current level of real GDP lies below potential GDP, then an appropriate fiscal policy would be to _____, which will shift the _____ curve to the _____. 
+A) increase government purchases; AD; left. 
+B) increase transfer payments; AS; right. 
+C) increase tax rates; AD; right. 
+D) increase government purchases; AD; right. 
+135. If the economy is at equilibrium below potential output: 
+A) there is a recessionary gap, and expansionary fiscal policy is appropriate. 
+B) there is an inflationary gap, and expansionary fiscal policy is appropriate. 
+C) there is a recessionary gap, and contractionary fiscal policy is appropriate. 
+D) there is an inflationary gap, and contractionary fiscal policy is appropriate. 
+136. If the economy is at potential output and consumption spending suddenly decreases because of a fall in consumer confidence, the appropriate fiscal policy is: 
+A) a decrease in government transfers. 
+B) an increase in government spending. 
+C) a decrease in government spending. 
+D) an increase in the money supply to decrease interest rates. 
+137. Which of the following is an expansionary fiscal policy? 
+A) an increase in the money supply that decreases interest rates 
+B) an increase in taxes that reduces the budget deficit and decreases consumption 
+C) a decrease in government spending on the space program 
+D) an increase in unemployment benefits 
+138. A reduction in government transfers ________, therefore shifting the aggregate demand curve to the ________. 
+A) increases labor costs to companies, increasing investment; left 
+B) decreases government purchases of goods and services, decreasing consumption; right 
+C) increases the marginal propensity to save, decreasing consumption; right 
+D) decreases disposable income and consumption; left 
+139. To close a recessionary gap by employing fiscal policy, the government could: 
+A) increase national savings so that the interest rate falls. 
+B) lower the annual income exempt from paying the personal income tax. 
+C) lower the corporate income tax rate. 
+D) lower the amount of unemployment insurance benefits. 
+146. A government might want to increase aggregate demand to: 
+A) close an inflationary gap. 
+B) close a recessionary gap. 
+C) lower prices in the economy. 
+D) lower employment in the economy. 
+149. An expansionary fiscal policy: 
+A) usually decreases a government budget deficit or increases a government budget surplus. 
+B) may include decreases in government spending. 
+C) may include increases in taxes. 
+D) may include decreases in taxes. 
+150. An inflationary gap can be closed with: 
+A) expansionary monetary policy. 
+B) a decrease in taxes. 
+C) a decrease in government purchases. 
+D) expansionary fiscal policy. 
+151. Contractionary fiscal policy causes the aggregate demand curve to shift to the _______ and is used to close a(n) _______ gap. 
+A) right; inflationary 
+B) right; recessionary 
+C) left; inflationary 
+D) left; recessionary 
+153. Suppose the government increases taxes by more than is necessary to close an inflationary gap. Which of the following would most likely result? 
+A) Equilibrium real GDP will be more than anticipated. 
+B) The economy could move into a recession. 
+C) The economy will generate a larger inflationary gap than anticipated. 
+D) This will not have any adverse effects on the economy, since inflation has been abated. 
+154. Decreasing funding to explore space: 
+A) will shift the aggregate supply curve to the left. 
+B) will shift the aggregate supply curve to the right. 
+C) will shift the aggregate demand curve to the left. 
+D) will shift the aggregate demand curve to the right. 
+155. If the MPC is 0.8 and the government spending decreases by $50 million, then equilibrium GDP will decrease by: 
+A) $40 million. 
+B) $50 million. 
+C) $200 million. 
+D) $250 million. 
+156. If the government spends an extra $5 billion on goods and services: 
+A) GDP will go up by $5 billion. 
+B) GDP will remain unchanged. 
+C) GDP will increase by less than $5 billion. 
+D) GDP will increase by more than $5 billion. 
+157. If the marginal propensity to save is 0.1, then the government spending multiplier has a value of 
+A) one-tenth. 
+B) 9. 
+C) 10. 
+D) one-ninth. 
+159. If the marginal propensity to consume is 0.75 and the federal government increases spending by $100 billion, the income expenditure model would predict that real GDP will increase by: 
+A) $100 billion. 
+B) $750 billion. 
+C) $400 billion. 
+D) $300 billion. 
+160. Congress increases personal income tax rates in order to balance the budget. Which of the following is likely to result? 
+A) Automatic stabilizers will increase the contractionary impact of the decrease in aggregate demand. 
+B) Automatic stabilizers will decrease the contractionary impact of the decrease in aggregate demand. 
+C) Automatic stabilizers will increase the expansionary impact of the increase in aggregate demand. 
+D) Automatic stabilizers will decrease the expansionary impact of the increase in aggregate demand. 
+161. Government transfer payments rise when the economy is contracting and fall when the economy is expanding. In this role, transfer payments are described as: 
+A) automatic stabilizers. 
+B) discretionary fiscal policy. 
+C) balanced budget policy. 
+D) deficit reduction policy. 
+164. Assume that the marginal propensity to consume is 0.8 and potential output is $800 billion. If current real GDP is $850, which of the following policies would bring the economy to potential output? 
+A) Decrease government spending by $50 billion. 
+B) Increase government spending by $50 billion. 
+C) Decrease government transfers by $50 billion. 
+D) Decrease government spending by $10 billion. 
+165. Economists believe that the budget should be balanced each fiscal year. Is this correct? 
+A) Yes, a budget should be balanced annually, otherwise persistent budget deficits can cause havoc in the economy. 
+B) Yes, as the law states that both the federal and state government budgets should always be balanced. 
+C) Yes, since the balanced budget multiplier is larger, hence it makes the economy grow faster. 
+D) No, a budget should be balanced only on average; it can be in a deficit during a recession and offset by surpluses when the economy is doing well. 
+166. The stability pact, signed by many of the European countries that adopted the euro, limited each member nation's deficit to 3% of GDP. This: 
+A) enhanced the ability of each of the member countries to conduct fiscal policy. 
+B) enhanced the ability of each of the member countries to conduct monetary policy. 
+C) limited each member country's ability to use fiscal policy. 
+D) did away with budget deficits all together. 
+167. What can the federal government do to finance a deficit? 
+A) cut taxes 
+B) increase spending 
+C) reduce interest rates 
+D) borrow funds 
+168. Suppose that U.S. debt is $7 trillion at the beginning of the fiscal year. During the fiscal year, the government spending and government transfers are $2 trillion and tax revenues equal $1.5 trillion. At the end of the fiscal year, the debt is: 
+A) $10.5 trillion. 
+B) $6.5 trillion. 
+C) $9 trillion. 
+D) $7.5 trillion. 
+169. When the budget is in deficit, the government generally: 
+A) raises taxes. 
+B) increases the public debt. 
+C) sells public assets like national parks. 
+D) decreases military spending. 
+170. If the economy exhibited an inflationary gap, the government should follow: 
+A) an expansionary policy, which would shift the AD curve to the right. 
+B) a contractionary policy, which would shift the AD curve to the right. 
+C) an expansionary policy, which would shift the AD curve to the left. 
+D) a contractionary policy, which would shift the AD curve to the left. 
+171. When the government decreases government spending, the: 
+A) AD curve will shift to the left. 
+B) SRAS curve will shift to the left. 
+C) government's budget balance will move toward a deficit. 
+D) government debt will increase. 
+172. Holding everything else constant, the government's budget balance during an expansion will: 
+A) increase. 
+B) remain the same. 
+C) decrease. 
+D) be equal to 100. 
+173. The government deficit: 
+A) is the essentially the same as the government debt. 
+B) is much higher than the government debt. 
+C) measures the difference between the amount government spends and the amount it collects in tax revenues in a given period. 
+D) is the total amount of money a government owes at a particular point in time. 
+174. Funding for Social Security and Medicare: 
+A) must come from government borrowing. 
+B) comes from dedicated taxes. 
+C) is likely to increase with the retirement of baby boomers. 
+D) can be accomplished with lower taxes in the future. 
+175. The 2009 American Recovery and Reinvestment Act was an example of: 
+A) an automatic stabilizer. 
+B) a contractionary government policy. 
+C) a contractionary monetary policy. 
+D) an expansionary fiscal policy. 
+176. If the tax rate is 0.1 and the MPC is 0.5: 
+A) the multiplier is equal to 2. 
+B) the multiplier is equal to 1.8. 
+C) the multiplier is equal to 2.1. 
+D) the multiplier is equal to 1. 
+177. Which of the following combination of assets is considered to be money? 
+A) currency in circulation, checkable bank deposits, and credit cards 
+B) currency in circulation, checkable bank deposits, and travelers' checks 
+C) currency in circulation and in bank vaults, checkable bank deposits, and travelers' checks 
+D) currency in circulation and in bank vaults, checkable bank deposits, and credit cards 
+178. Which of the following is considered to be money? 
+A) Google stock 
+B) bonds 
+C) credit cards 
+D) checking account deposits 
+179. “Tuition at State University this year is $8,000.” Which function of money does this statement best illustrate? 
+A) as a store of value 
+B) as a medium of exchange 
+C) as a unit of account 
+D) as a means of deferred payment 
+180. When you discover money in your coat that you placed there last winter, you unexpectedly find you were using money as a(n): 
+A) medium of exchange. 
+B) expander of economic activity. 
+C) factor of production. 
+D) store of value. 
+181. When people use money to purchase downloaded music, they are using money as: 
+A) a medium of exchange. 
+B) a store of value. 
+C) a unit of account. 
+D) a store of account. 
+182. Commodity money is: 
+A) whatever the government has decreed is money. 
+B) a good used as a medium of exchange that has other uses. 
+C) money used for commodity futures trading. 
+D) whatever people accept as money. 
+185. Which of the following is true concerning the monetary aggregates? 
+A) M2 includes the gold stock but not M1. 
+B) M2 includes M1. 
+C) The gold stock backs M2 but not M1. 
+D) M1 includes M2 but not the gold stock. 
+186. Which of the following is near-money? 
+A) a traveler's check 
+B) a credit card 
+C) a debit card 
+D) a savings account 
+187. Which of the following financial assets belongs to M2 but not to M1? 
+A) a savings account 
+B) a checkable deposit 
+C) currency 
+D) travelers' checks 
+188. Included in the M1 definition of money are: 
+A) checkable bank deposits. 
+B) savings deposits. 
+C) U.S. Treasury bills. 
+D) demand deposits, savings deposits, and U.S. Treasury bills. 
+189. Bank reserves are: 
+A) the fraction of deposits kept in gold with the Federal Reserve. 
+B) the deposits lent to finance illiquid investments. 
+C) the fraction of deposits kept in the form of very liquid assets. 
+D) gold kept in the bank's vault. 
+191. Among the assets of a bank are: 
+A) deposits. 
+B) loans. 
+C) borrowings. 
+D) deposits and loans. 
+192. If a bank has deposits of $100,000, loans of $75,000, cash on hand of $10,000, and $15,000 on deposit at the Federal Reserve, then its reserve ratio is: 
+A) 5%. 
+B) 10%. 
+C) 12.5%. 
+D) 25%. 
+193. The reserve ratio is defined as the ratio of: 
+A) bank assets to bank liabilities. 
+B) bank assets to bank reserves. 
+C) customers' bank deposits to bank assets. 
+D) bank reserves to customers' bank deposits. 
+194. Which of the following is NOT true about bank runs?
+A) They may start as a result of a rumor that a bank is in financial trouble. 
+B) Many banks' depositors try to withdraw their funds due to fears of a bank failure. 
+C) Bank runs typically only happen to small banks with few financial assets. 
+D) Bank runs often lead to a loss of faith in other banks, causing additional bank runs. 
+195. A bank run can break a bank because: 
+A) borrowers default on their loans, and the bank's assets become worthless. 
+B) banks cannot quickly convert illiquid loans into liquid assets without facing a large financial loss. 
+C) depositors' panic spreads to borrowers, who want to take additional loans from the bank. 
+D) the bank's reserves kept with the Federal Reserve are in the form of illiquid U.S. Treasury bonds. 
+196. Bank runs in the United States during the 1930s had a large negative impact on the economy because: 
+A) capital requirements prevented bank managers from taking additional lending risks.
+B) the reserve ratio was set too high. 
+C) the Federal Reserve system did not exist at the time. 
+D) the loss of confidence at one bank quickly extended to other banks. 
+197. A major problem with bank runs is that they: 
+A) spread to other banks. 
+B) cause inflation, because the money moves so fast in the economy. 
+C) cause interest rates to fall. 
+D) cause both inflation and interest rates to fall.
+198. If a bank has assets equal to $100 million dollars, according to practice, its liabilities should NOT exceed: 
+A) $7 million. 
+B) $70million. 
+C) $93 million. 
+D) $107 million. 
+199. The existence of banks: 
+A) results in the money supply being larger than the amount of currency in circulation.
+B) inhibits the creation of money. 
+C) makes the money supply equal to the amount of currency in circulation. 
+D) results in the money supply being less than the amount of currency in circulation. 
+200. Banks create money when they: 
+A) make loans. 
+B) take deposits. 
+C) hold excess reserves. 
+D) pay withdrawals to depositors. 
+201. Which of the following would be the initial effect if an individual made a $10,000 cash deposit in a bank? 
+A) The money supply would rise by $10,000. 
+B) The money supply would fall by $10,000. 
+C) The money supply would not be affected by the deposit. 
+D) The money supply would fall but by less than the $10,000 deposit. 
+202. Suppose the reserve ratio is 20%. If Sam deposits $500 into his checking account, his bank can increase loans by: 
+A) $500. 
+B) $2,500. 
+C) $100. 
+D) $400. 
+203. Suppose that initially a bank has excess reserves of $800 and the reserve ratio is 30%. Then Andy deposits $1,000 of cash into his checking account and the bank lends $600 to Molly. That bank can lend an additional: 
+A) $100. 
+B) $800. 
+C) $900. 
+D) $300. 
+204. Suppose your grandma sends you $100 for your birthday and you deposit that $100 in your checking account at the local bank. The reserve ratio is 10%. Based upon this deposit, the bank's excess reserves have increased by _____, and if the bank lends these new excess reserves, the money supply could eventually grow by as much as _____. 
+A) $90; $1,000 
+B) $100; $900 
+C) $90; $900 
+D) $100; $1,000 
+205. The money multiplier is equal to: 
+A) 1 divided by the reserve ratio. 
+B) 1 divided by excess reserves. 
+C) 1 minus the reserve ratio. 
+D) the reserve ratio plus excess reserves divided by the reserve ratio. 
+206. (Scenario: Holding Cash) As a result of the deposit, required reserves will increase by: Use the following to answer question 206: Scenario: Holding Cash Suppose that the public holds 50% of the money supply in currency and the reserve requirement is 20 percent. Banks hold no excess reserves. A customer deposits $6,000 in her checkable deposit. 
+A) $0 
+B) $1,200 
+C) $3,000 
+D) $6,000 
+207. (Scenario: Holding Cash) As a result of the deposit, the bank's loans will increase by: Use the following to answer question 207: Scenario: Holding Cash Suppose that the public holds 50% of the money supply in currency and the reserve requirement is 20 percent. Banks hold no excess reserves. A customer deposits $6,000 in her checkable deposit. 
+A) $6,000 
+B) $1,200 
+C) $3,000 
+D) $4,800 
+213. Decisions about monetary policy are made by: 
+A) the president and Congress. 
+B) the President's Council of Economic Advisors. 
+C) the Federal Open Market Committee. 
+D) representatives of banks that are members of the Federal Reserve System. 
+214. To change the money supply, the Federal Reserve most frequently uses: 
+A) changes in the required reserve ratios. 
+B) changes in the discount rate. 
+C) open-market operations. 
+D) changes in the inflation rate. 
+215. All of the following are responsibilities of the Federal Reserve EXCEPT to: 
+A) control the monetary base. 
+B) mint bills and coins. 
+C) oversee and regulate the banking system. 
+D) set the discount rate. 
+216. To _______ the money supply, the Federal Reserve could ________. 
+A) increase; lower the reserve requirements 
+B) decrease; lower the discount rate 
+C) increase; raise the federal funds rate 
+D) decrease; conduct open-market purchases 
+217. If the Federal Reserve wants to increase the money supply, it will: 
+A) sell U.S. Treasury bills. 
+B) cut taxes across the board. 
+C) lower the reserve requirement. 
+D) increase the discount rate. 
+218. A firm uses financial leverage when it: 
+A) replaces labor with capital. 
+B) borrows money from a bank to enlarge a factory. 
+C) raises the price of a product when demand is inelastic. 
+D) gets a volume discount from a supplier. 
+221. Money is: 
+A) any form of wealth. 
+B) an asset that can be easily used to purchase goods and services. 
+C) only currency which is designated by law. 
+D) only currency in circulation. 
+222. Suppose a bank faces a 10% required reserve ratio and it has $100 in required reserves. If it is fully loaned out, what is the amount of deposits into this bank? 
+A) $900 
+B) $10 
+C) $1,000 
+D) $10,000 
+223. The existence of deposit insurance: 
+A) can increase the possibility of bank runs. 
+B) often makes banks more accountable for their actions and less likely to engage in risky behavior. 
+C) essentially serves the same function as a fractional reserve system. 
+D) leads depositors to be less inclined to monitor bank operations. 
+224. When a bank lends excess reserves to a customer: 
+A) this does not affect the money supply. 
+B) the money supply is increased. 
+C) the money supply is decreased. 
+D) it has the same effect as when one customer writes a check to another customer at a different bank. 
+225. When a bank borrows from the Federal Reserve, it pays the: 
+A) required reserve ratio. 
+B) discount rate. 
+C) federal funds rate. 
+D) prime rate. 
+226. If the Federal Reserve wanted to increase the money supply, it could: 
+A) decrease the required reserve ratio, increase the federal funds rate, and sell bonds on the open market. 
+B) decrease the required reserve ratio, decrease the discount rate, and buy bonds on the open market. 
+C) increase the required reserve ratio, increase the personal tax rate, and sell bonds on the open market. 
+D) increase the personal tax rate, decrease the required reserve ratio, and buy bonds on the open market. 
+227. Suppose an economy uses a checkable deposits only monetary system and it has a required reserve ratio of 20%. If the central bank in this economy conducts an open market purchase of $5 million Treasury bills, this will potentially: 
+A) increase the money supply by $25 million. 
+B) decrease the money supply by $25 million. 
+C) increase the money supply by $10 million. 
+D) decrease the money supply by $10 million. 
+228. Generally, the more liquid an asset is: 
+A) the lower its purchasing power. 
+B) the lower its rate of return. 
+C) the higher its capacity to store value over time. 
+D) the higher its rate of return. 
+229. If a checking account has an interest rate of 1% and a Treasury bill has an interest rate of 3%, the opportunity cost of holding cash in a checking account is: 
+A) zero. 
+B) 0.02%. 
+C) 1%. 
+D) 2%. 
+230. If a checking account has an interest rate of 1% and a Treasury bill has an interest rate of 2%, the opportunity cost of holding the checking account as money is: 
+A) zero. 
+B) 0.02%. 
+C) 1%. 
+D) 2%. 
+231. We hold money to: 
+A) earn interest. 
+B) reduce transaction costs. 
+C) increase transaction costs 
+D) protect our purchasing power. 
+232. When the short-term interest rate _____, the opportunity cost of holding money _____, and the quantity of money individuals want to hold _____. 
+A) falls; falls; falls 
+B) falls; falls; rises 
+C) rises; falls; falls 
+D) rises; falls; rises 
+233. The amount of money that people demand is: 
+A) positively related to the interest rate. 
+B) independent the interest rate. 
+C) negatively related to the interest rate. 
+D) positively related or negatively related to the interest rate depending on the state of the economy. 
+234. The money demand curve is _________ because a lower interest rate ___________. 
+A) upward-sloping; increases the opportunity cost of holding money 
+B) downward-sloping; increases the opportunity cost of holding money 
+C) upward-sloping; decreases the opportunity cost of holding money 
+D) downward-sloping; decreases the opportunity cost of holding money 
+235. An increase in the aggregate price level: 
+A) increases the demand for money. 
+B) decreases the demand for money. 
+C) does not affect the demand for money. 
+D) shifts the demand for money to the left. 
+236. Improvements in information technology have: 
+A) shifted the demand for cash to the right. 
+B) decreased the demand for money. 
+C) not affected the demand for money 
+D) increased the demand for money. 
+237. Suppose the economy experiences price inflation such that a typical basket of goods is now more expensive than it used to be. All else equal, we would expect: 
+A) the demand for money to shift inward. 
+B) a downward movement along a fixed money demand curve. 
+C) the demand for money to shift outward. 
+D) an upward movement along a fixed money demand curve. 
+238. Suppose that the economy enters a recession and real GDP falls. All else equal, we would expect: 
+A) the money demand curve to shift inward. 
+B) the money demand curve to shift outward. 
+C) a downward movement along a fixed money demand curve. 
+D) an upward movement along a fixed money demand curve. 
+239. Every year more and more purchases are made with credit cards on the Internet. Given this trend, all else equal, we would expect: 
+A) the money demand curve to shift outward. 
+B) the money demand curve to shift inward. 
+C) a downward movement along a fixed money demand curve. 
+D) an upward movement along a fixed money demand curve. 
+240. The quantity demanded of money is negatively related to _______, and the demand for money is positively related to _______. 
+A) the interest rate; real GDP 
+B) the interest rate; unemployment 
+C) real GDP; the interest rate 
+D) real GDP; the money supply 
+241. Which of the following does NOT cause the money demand curve to shift? 
+A) a change in the interest rate 
+B) a change in the price level 
+C) a change in banking technology 
+D) a change in real GDP 
+242. If the equilibrium interest rate in the money market is 5%, then at an interest rate of 2%:
+A) money demanded is less than money supplied. 
+B) money demanded is greater than money supplied. 
+C) money demanded is equal to money supplied. 
+D) it is impossible to predict which is greater, money demanded or money supplied. 
+243. If at the current interest rate the demand for money is $100 billion and the supply of money is $200 billion, then the interest rate will:
+A) fall. 
+B) rise. 
+C) remain unchanged. 
+D) be in equilibrium. 
+244. If the equilibrium interest rate in the money market is 5%, then at an interest rate of 2%:
+A) the quantity of nonmonetary interest-bearing financial assets demanded is less than the quantity supplied. 
+B) the quantity of nonmonetary interest-bearing financial assets demanded is greater than the quantity supplied. 
+C) the quantity of nonmonetary interest-bearing financial assets demanded is equal to the quantity supplied. 
+D) it is impossible to predict which is greater, the quantity demanded or quantity supplied of nonmonetary interest-bearing financial assets. 
+247. An increase in the supply of money with no change in demand for money will lead to _______ in the equilibrium quantity of money and _______ in the equilibrium interest rate. 
+A) an increase; a rise 
+B) an increase; a fall 
+C) a decrease; a rise 
+D) a decrease; a fall 
+248. A sale of bonds by the Federal Reserve: 
+A) raises interest rates and increases the money supply. 
+B) raises interest rates and reduces the money supply. 
+C) lowers interest rates and reduces the money supply. 
+D) lowers interest rates and increases the money supply. 
+250. Which of the following statements is true? 
+A) An increase in the money supply lowers the equilibrium rate of interest. 
+B) A decrease in the money supply lowers the equilibrium rate of interest. 
+C) The money supply curve is a horizontal line. 
+D) The demand for money curve is a vertical line. 
+251. If the target rate of interest is higher than the current equilibrium interest rate, the Federal Reserve will: 
+A) sell Treasury bills in the open market, increase the supply of money, and lower the interest rate to the target rate. 
+B) buy Treasury bills in the open market, increase the supply of money, and lower the interest rate to the target rate. 
+C) sell Treasury bills in the open market, decrease the supply of money, and raise the interest rate to the target rate. 
+D) buy Treasury bills in the open market, decrease the supply of money, and raise the interest rate to the target rate. 
+252. Suppose the Federal Reserve has set a target for the federal funds rate. If initially the equilibrium interest rate happens to be higher than the target interest rate, then the Federal Reserve should: 
+A) sell Treasury bills in the open market, decrease money supply, shift the supply of money curve to the left, and raise the interest rate to the target rate. 
+B) purchase Treasury bills in the open market, decrease money supply, shift the supply of money curve to the left, and lower the interest rate to the target rate. 
+C) purchase Treasury bills in the open market, increase money supply, shift the supply of money curve to the right, and lower the interest rate to the target rate. 
+D) sell Treasury bills in the open market, increase money supply, shift the supply of money curve to the left, and raise the interest rate to the target rate. 
+253. According to the liquidity preference model, a _________ in the money supply shifts the money supply curve to the _________ and increases the equilibrium interest rate. 
+A) decrease; right 
+B) increase; left 
+C) decrease; left 
+D) increase; right 
+254. The Federal Reserve affects interest rates by: 
+A) setting them with regulations. 
+B) open market operations that shift the money demand curve. 
+C) open market operations that shift the money supply curve. 
+D) changing tax rates. 
+255. The Federal Reserve's Open Market Committee has decided that the federal funds rate should be 2% rather than the current rate of 1.5%. The appropriate open market action is to _____ Treasury bills to _____ money _____. 
+A) sell; decrease; demand 
+B) sell; decrease; supply 
+C) buy; decrease; supply 
+D) buy; increase; demand 
+256. The Federal Reserve's Open Market Committee has decided that the federal funds rate should be 0.5% rather than the current rate of 1.25%. The appropriate open market action is to _____ Treasury bills to _____ money _____. 
+A) buy; decrease; demand 
+B) buy; decrease; supply 
+C) sell; decrease; demand 
+D) buy; increase; supply 
+257. If long-term interest rates are 8% and short-term interest rates are 3%, the market expects that: 
+A) short-term rates will fall in the future. 
+B) short-term rates will rise in the future. 
+C) short-term rates will remain the same in the future. 
+D) there is no relationship between long-term and short-term rates. 
+258. According to the liquidity preference model, if the Federal Reserve increases the money supply, the equilibrium interest rate ________, and this leads to _________ in the quantity demanded of nonmonetary interest-bearing financial assets. 
+A) rises; an increase 
+B) falls; a decrease 
+C) rises; a decrease 
+D) falls; an increase 
+259. Other things equal, rising interest rates lead to a: 
+A) fall in investment and consumer spending. 
+B) rise in investment and consumer spending. 
+C) fall in investment spending and a rise in consumer spending. 
+D) fall in consumer spending and a rise in investment spending. 
+260. Expansionary monetary policy: 
+A) increases the money supply, interest rates, consumption, and investment. 
+B) decreases the money supply, interest rates, consumption, and investment. 
+C) increases the money supply, decreases interest rates, and increases consumption and investment. 
+D) decreases the money supply, increases interest rates, and decreases consumption and investment. 
+261. Monetary policy that lowers the interest rate is called ________ because it ________. 
+A) contractionary; aims to head off inflation 
+B) expansionary; increases short-run aggregate supply 
+C) contractionary; reduces saving and increases consumption 
+D) expansionary; increases aggregate demand 
+262. If interest rates rise there will be a(n): 
+A) decrease in aggregate demand. 
+B) increase in aggregate demand. 
+C) increase in aggregate supply. 
+D) increase in the money supply. 
+263. If the Federal Reserve sets the federal funds rate on the basis of inflation and the output gap, then the Federal Reserve is following: 
+A) inflation targeting. 
+B) the Taylor rule. 
+C) money illusion. 
+D) the quantity theory. 
+264. When the Fed uses quantitative easing, it is: 
+A) buying three-month Treasury bills. 
+B) selling three-month Treasury bills. 
+C) buying longer-term government debt. 
+D) selling longer-term government debt. 
+265. To close a recessionary gap using monetary policy, the Federal Reserve should ________ the money supply to ________ investment and consumer spending and shift the aggregate demand curve to the ________. 
+A) increase; increase; left 
+B) decrease; decrease; left 
+C) increase; increase; right 
+D) decrease; decrease; right 
+268. To fight inflation, the Federal Reserve should conduct _____ monetary policy to ______ interest rates, which will shift the aggregate demand curve to the _____. 
+A) contractionary; raise; left 
+B) contractionary; raise; right 
+C) expansionary; lower; right 
+D) expansionary; raise; left 
+269. When actual output is above potential output over time: 
+A) nominal wages will increase, and the short-run supply curve will shift to the right. 
+B) nominal wages will increase, and the short-run supply curve will shift to the left. 
+C) the aggregate demand curve will shift to the right. 
+D) the short-run aggregate supply curve will shift to the right. 
+270. In the long run, changes in the money supply: 
+A) affect both the aggregate price level and aggregate output. 
+B) affect only the price level; they do not change aggregate output. 
+C) affect aggregate output but not the aggregate price level. 
+D) have no impact on either the aggregate price level or aggregate output. 
+271. Monetary neutrality implies that in the long run: 
+A) monetary policy does not affect the level of economic activity. 
+B) aggregate supply is independent of monetary policy. 
+C) changing the money supply does not have any effect on the aggregate price level. 
+D) aggregate demand is independent from monetary policy. 
+272. If the money supply increases by 10%, in the long run: 
+A) unemployment drops by 10%. 
+B) the price level increases by 10%. 
+C) real GDP increases by 10%. 
+D) unemployment drops by 20%. 
+273. Expansionary monetary policy causes _______ in interest rates in the short run and ______ in interest rates in the long run. 
+A) a fall; no change 
+B) a fall; a fall 
+C) no change; a fall 
+D) no change; no change 
+274. (Scenario: Money and Interest Rates) The demand for money will _____, and the supply of money will _____. Use the following to answer questions 274-276: Scenario: Money and Interest Rates Banks decide to do away with fees charged to noncustomers when they use another bank's ATM. 
+A) increase; not change 
+B) increase; decrease 
+C) decrease; not change 
+D) decrease; increase 
+275. (Scenario: Money and Interest Rates) If the money supply remains constant, interest rates will likely: Use the following to answer questions 274-276: Scenario: Money and Interest Rates Banks decide to do away with fees charged to noncustomers when they use another bank's ATM. 
+A) decrease. 
+B) increase. 
+C) remain the same. 
+D) increase or decrease, depending upon what maximizes profits for the largest commercial banks. 
+276. (Scenario: Money and Interest Rates) If the Federal Reserve wants to maintain the same federal funds rate, it should: Use the following to answer questions 274-276: Scenario: Money and Interest Rates Banks decide to do away with fees charged to noncustomers when they use another bank's ATM. 
+A) increase taxes. 
+B) decrease government spending. 
+C) sell Treasury bills. 
+D) buy Treasury bills. 
+279. Expansionary monetary policy will ______ interest rates and _______ savings in the short run. 
+A) raise; increase 
+B) raise; decrease 
+C) lower; increase 
+D) lower; decrease 
+281. Firms and businesses hold some of their assets in the form of money because: 
+A) it allows them to make purchases directly. 
+B) it is a form of M2. 
+C) bonds are more liquid. 
+D) interest rates tend to be lower than other types of assets. 
+282. If aggregate output decreases in an economy whose central bank is not changing its monetary policy, one would expect: 
+A) the demand for money to fall. 
+B) the interest rate in the economy to rise. 
+C) the demand for money to rise. 
+D) the demand for money to be unchanged. 
+283. Suppose a new regulation lowers the interest rates banks can offer on checking account funds. This will result in: 
+A) a shift leftward of the money demand curve. 
+B) a shift rightward of the money demand curve. 
+C) a shift rightward in the money supply curve. 
+D) a shift leftward in the money supply curve. 
+284. When the demand for money is greater than the supply of money: 
+A) people offering to sell nonmonetary financial assets must increase the interest rate these assets pay in order to sell them. 
+B) interest rates will fall. 
+C) the opportunity cost of holding money will fall.
+D) more people will hold money. 
+285. If the Federal Open Market Committee conducts an open market purchase, one can expect that: 
+A) interest rates in the money market will fall. 
+B) interest rates in the money market will remain unchanged. 
+C) interest rates in the money market will rise. 
+D) the money supply will decrease. 
+286. Contractionary monetary policy will, holding everything else constant: 
+A) increase the interest rate and cause the AD curve to shift to the right. 
+B) increase the interest rate and cause the AD curve to shift to the left. 
+C) decrease the interest rate and cause the AD curve to shift to the left. 
+D) decrease the interest rate and cause the AD curve to shift to the right. 
+287. If an economy is operating at an output level below its potential output level, holding everything else constant, one would expect: 
+A) nominal wages to rise. 
+B) nominal wages to stay the same. 
+C) nominal wages to fall. 
+D) price levels to increase. 
+!!ANSWERS!!
+001. D 
+002. A 
+003. D 
+004. A 
+005. A 
+006. A 
+007. A 
+008. A 
+009. D 
+010. C 
+011. B 
+012. B 
+013. C 
+014. C 
+015. A 
+016. A 
+017. A 
+018. C 
+019. C 
+020. D 
+021. B 
+022. B 
+023. B 
+024. B 
+025. D 
+026. C 
+027. B 
+028. B 
+029. D 
+030. D 
+031. B 
+032. B 
+033. C 
+034. C 
+035. B 
+036. A 
+037. A 
+038. A 
+039. D 
+040. D 
+041. B 
+042. D 
+043. C 
+044. A 
+045. A 
+046. A 
+047. D 
+048. C 
+049. A 
+050. B 
+051. B 
+052. C 
+053. C 
+054. C 
+055. A 
+056. A 
+057. B 
+058. C 
+059. B 
+060. D 
+061. B 
+062. D 
+063. D 
+064. C 
+065. A 
+066. A 
+067. B 
+068. C 
+069. A 
+070. C 
+071. A 
+072. B 
+073. A 
+074. D 
+075. B 
+076. B 
+077. D 
+078. B 
+079. A 
+080. A 
+081. B 
+082. B 
+083. A 
+084. C 
+085. A 
+086. D 
+087. D 
+088. A 
+089. C 
+090. D 
+091. B 
+092. B 
+093. A 
+094. A 
+095. A 
+096. C 
+097. C 
+098. C 
+099. C 
+100. A 
+101. D 
+102. D 
+103. C 
+104. C 
+105. C 
+106. B 
+107. A 
+108. B 
+109. C 
+110. B 
+111. D 
+112. B 
+113. C 
+114. A 
+115. D 
+116. B 
+117. A 
+118. B 
+119. A 
+120. C 
+121. D 
+122. A 
+123. C 
+124. A 
+125. B 
+126. D 
+127. A 
+128. B 
+129. D 
+130. C 
+131. C 
+132. A 
+133. A 
+134. A 
+135. A 
+136. B 
+137. D 
+138. D 
+139. C 
+140. C 
+141. A 
+142. B 
+143. C 
+144. B 
+145. C 
+146. B 
+147. C 
+148. D 
+149. D 
+150. C 
+151. C 
+152. C 
+153. B 
+154. C 
+155. D 
+156. D 
+157. C 
+158. D 
+159. C 
+160. B 
+161. A 
+162. C 
+163. C 
+164. D 
+165. D 
+166. C 
+167. D 
+168. D 
+169. B 
+170. D 
+171. A 
+172. A 
+173. C 
+174. B 
+175. D 
+176. B 
+177. B 
+178. D 
+179. C 
+180. D 
+181. A 
+182. B 
+183. B 
+184. C 
+185. B 
+186. D 
+187. A 
+188. A 
+189. C 
+190. C 
+191. B 
+192. D 
+193. D 
+194. C 
+195. B 
+196. D 
+197. A 
+198. C 
+199. A 
+200. A 
+201. C 
+202. D 
+203. C 
+204. C 
+205. A 
+206. B 
+207. D 
+208. B 
+209. C 
+210. A 
+211. B 
+212. C 
+213. C 
+214. C 
+215. B 
+216. A 
+217. C 
+218. B 
+219. A 
+220. C 
+221. B 
+222. C 
+223. D 
+224. B 
+225. B 
+226. B 
+227. A 
+228. B 
+229. D 
+230. C 
+231. B 
+232. B 
+233. C 
+234. D 
+235. A 
+236. B 
+237. C 
+238. A 
+239. B 
+240. A 
+241. A 
+242. B 
+243. A 
+244. A 
+245. C 
+246. B 
+247. B 
+248. B 
+249. B 
+250. A 
+251. C 
+252. C 
+253. C 
+254. C 
+255. B 
+256. D 
+257. B 
+258. B 
+259. A 
+260. C 
+261. D 
+262. A 
+263. B 
+264. C 
+265. C 
+266. C 
+267. C 
+268. A 
+269. B 
+270. B 
+271. A 
+272. B 
+273. A 
+274. C 
+275. A 
+276. C 
+277. C 
+278. B 
+279. C 
+280. C 
+281. A 
+282. A 
+283. A 
+284. A 
+285. A 
+286. B 
+287. C 
